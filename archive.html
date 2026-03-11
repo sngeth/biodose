@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Archive - BioDose</title>
+    <meta name="description" content="Past articles from BioDose - evidence-based health optimization">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            line-height: 1.65;
+            color: #1a1a1a;
+            background: #fff;
+            padding: 0;
+            margin: 0;
+        }
+
+        .nav {
+            border-bottom: 1px solid #e5e5e5;
+            padding: 20px 0;
+            background: #fff;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .nav-content {
+            max-width: 680px;
+            margin: 0 auto;
+            padding: 0 24px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: #000;
+            letter-spacing: -0.02em;
+            text-decoration: none;
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 20px;
+        }
+
+        .nav-link {
+            font-size: 0.875rem;
+            color: #666;
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        .nav-link:hover {
+            color: #000;
+        }
+
+        .container {
+            max-width: 680px;
+            margin: 0 auto;
+            padding: 40px 24px 80px;
+        }
+
+        h1 {
+            font-size: 2.25rem;
+            line-height: 1.2;
+            font-weight: 700;
+            letter-spacing: -0.03em;
+            margin-bottom: 12px;
+            color: #000;
+        }
+
+        .subtitle {
+            font-size: 1rem;
+            color: #666;
+            margin-bottom: 40px;
+        }
+
+        .article-list {
+            list-style: none;
+            padding: 0;
+        }
+
+        .article-item {
+            border-bottom: 1px solid #e5e5e5;
+            padding: 24px 0;
+        }
+
+        .article-date {
+            font-size: 0.8125rem;
+            color: #999;
+            margin-bottom: 8px;
+            font-weight: 500;
+        }
+
+        .article-title {
+            font-size: 1.25rem;
+            line-height: 1.3;
+            font-weight: 600;
+            margin-bottom: 8px;
+            color: #000;
+        }
+
+        .article-title a {
+            color: #000;
+            text-decoration: none;
+        }
+
+        .article-title a:hover {
+            opacity: 0.7;
+        }
+
+        .article-meta {
+            font-size: 0.875rem;
+            color: #666;
+            display: flex;
+            gap: 12px;
+            flex-wrap: wrap;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 60px 24px;
+            color: #999;
+        }
+
+        footer {
+            text-align: center;
+            padding: 48px 24px;
+            border-top: 1px solid #e5e5e5;
+            margin-top: 64px;
+        }
+
+        footer p {
+            font-size: 0.8125rem;
+            color: #999;
+            line-height: 1.6;
+        }
+
+        @media (max-width: 640px) {
+            h1 {
+                font-size: 1.75rem;
+            }
+
+            .container {
+                padding: 40px 20px 80px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <nav class="nav">
+        <div class="nav-content">
+            <a href="index.html" class="logo">BioDose</a>
+            <div class="nav-links">
+                <a href="index.html" class="nav-link">Latest</a>
+                <a href="archive.html" class="nav-link">Archive</a>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container">
+        <h1>Archive</h1>
+        <p class="subtitle">Past articles on evidence-based health optimization</p>
+
+        <ul id="article-list" class="article-list">
+            <li class="loading">Loading archive...</li>
+        </ul>
+    </div>
+
+    <footer>
+        <p>All articles sourced from peer-reviewed, open-access journals</p>
+        <p style="margin-top: 8px; font-size: 0.75rem;">PubMed Central · Updated Daily</p>
+    </footer>
+
+    <script>
+        async function loadArchive() {
+            const listEl = document.getElementById('article-list');
+
+            try {
+                // Fetch all archive files
+                const response = await fetch('archive-index.json');
+                const index = await response.json();
+
+                if (index.articles.length === 0) {
+                    listEl.innerHTML = '<li class="loading">No archived articles yet.</li>';
+                    return;
+                }
+
+                listEl.innerHTML = '';
+
+                // Sort by date descending
+                index.articles.sort((a, b) => b.date.localeCompare(a.date));
+
+                for (const item of index.articles) {
+                    const li = document.createElement('li');
+                    li.className = 'article-item';
+                    li.innerHTML = `
+                        <div class="article-date">${formatDate(item.date)}</div>
+                        <h2 class="article-title">
+                            <a href="${item.article.url}" target="_blank" rel="noopener">${item.article.title}</a>
+                        </h2>
+                        <div class="article-meta">
+                            <span>${item.article.journal}</span>
+                            <span>${item.article.authors}</span>
+                        </div>
+                    `;
+                    listEl.appendChild(li);
+                }
+            } catch (err) {
+                console.error('Error loading archive:', err);
+                listEl.innerHTML = '<li class="loading">Unable to load archive. Please refresh.</li>';
+            }
+        }
+
+        function formatDate(dateStr) {
+            const date = new Date(dateStr);
+            return date.toLocaleDateString('en-US', {
+                year: 'numeric',
+                month: 'long',
+                day: 'numeric'
+            });
+        }
+
+        loadArchive();
+    </script>
+</body>
+</html>

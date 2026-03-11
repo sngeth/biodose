@@ -211,6 +211,40 @@ async function main() {
   fs.writeFileSync('latest-article.json', JSON.stringify(output, null, 2));
   console.log('✅ Saved to latest-article.json\n');
 
+  // Save to archive
+  const archiveDir = 'archive';
+  if (!fs.existsSync(archiveDir)) {
+    fs.mkdirSync(archiveDir);
+  }
+  const archiveFile = `${archiveDir}/${output.date}.json`;
+  fs.writeFileSync(archiveFile, JSON.stringify(output, null, 2));
+  console.log(`✅ Saved to ${archiveFile}\n`);
+
+  // Generate archive index
+  const archiveFiles = fs.readdirSync(archiveDir)
+    .filter(f => f.endsWith('.json'))
+    .sort()
+    .reverse();
+
+  const archiveIndex = {
+    lastUpdated: new Date().toISOString(),
+    articles: archiveFiles.map(file => {
+      const data = JSON.parse(fs.readFileSync(`${archiveDir}/${file}`, 'utf8'));
+      return {
+        date: data.date,
+        article: {
+          title: data.article.title,
+          authors: data.article.authors,
+          journal: data.article.journal,
+          url: data.article.url
+        }
+      };
+    })
+  };
+
+  fs.writeFileSync('archive-index.json', JSON.stringify(archiveIndex, null, 2));
+  console.log('✅ Updated archive-index.json\n');
+
   return output;
 }
 
