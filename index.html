@@ -276,10 +276,12 @@
 
                         <h2>${article.title}</h2>
 
+                        ${article.abstract ? `
                         <div class="abstract">
                             <h3>📋 The Science</h3>
-                            <p>${article.abstract || 'Abstract available in full paper.'}</p>
+                            <p>${article.abstract}</p>
                         </div>
+                        ` : ''}
 
                         <div class="action-steps">
                             <h3>⚡ Action Steps</h3>
