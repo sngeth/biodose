@@ -13,251 +13,210 @@
         }
 
         body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
-            line-height: 1.8;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            line-height: 1.65;
             color: #1a1a1a;
-            background: #f5f7fa;
-            min-height: 100vh;
-            padding: 20px;
+            background: #fff;
+            padding: 0;
+            margin: 0;
+        }
+
+        .nav {
+            border-bottom: 1px solid #e5e5e5;
+            padding: 20px 0;
+            background: #fff;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .nav-content {
+            max-width: 680px;
+            margin: 0 auto;
+            padding: 0 24px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: #000;
+            letter-spacing: -0.02em;
+        }
+
+        .meta-badge {
+            font-size: 0.75rem;
+            color: #666;
+            font-weight: 500;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
         }
 
         .container {
-            max-width: 800px;
+            max-width: 680px;
             margin: 0 auto;
+            padding: 60px 24px 100px;
         }
 
-        header {
-            text-align: center;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            margin-bottom: 40px;
-            padding: 60px 20px;
-            border-radius: 20px;
-            box-shadow: 0 10px 40px rgba(102, 126, 234, 0.3);
-        }
-
-        h1 {
-            font-size: 3.5em;
-            font-weight: 800;
-            margin-bottom: 15px;
-            text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
-            letter-spacing: -1px;
-        }
-
-        .tagline {
-            font-size: 1.3em;
-            opacity: 0.95;
-            font-weight: 400;
-            margin-bottom: 20px;
-        }
-
-        .badge {
-            display: inline-block;
-            background: rgba(255,255,255,0.25);
-            backdrop-filter: blur(10px);
-            padding: 10px 20px;
-            border-radius: 25px;
-            font-size: 1em;
-            margin-top: 15px;
+        .date {
+            font-size: 0.8125rem;
+            color: #666;
+            margin-bottom: 8px;
             font-weight: 500;
         }
 
-        .article-card {
-            background: white;
-            border-radius: 20px;
-            padding: 50px;
-            box-shadow: 0 4px 20px rgba(0,0,0,0.08);
-            margin-bottom: 30px;
-            border: 1px solid rgba(0,0,0,0.05);
+        h1 {
+            font-size: 2.25rem;
+            line-height: 1.2;
+            font-weight: 700;
+            letter-spacing: -0.03em;
+            margin-bottom: 16px;
+            color: #000;
         }
 
-        .article-meta {
+        .meta {
             display: flex;
-            gap: 20px;
+            gap: 16px;
             flex-wrap: wrap;
-            margin-bottom: 25px;
-            font-size: 1em;
-            color: #64748b;
+            margin-bottom: 40px;
+            padding-bottom: 40px;
+            border-bottom: 1px solid #e5e5e5;
         }
 
         .meta-item {
-            display: flex;
-            align-items: center;
-            gap: 6px;
-            padding: 6px 0;
+            font-size: 0.875rem;
+            color: #666;
         }
 
-        .boost-label {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            padding: 6px 14px;
-            border-radius: 20px;
+        .content-section {
+            margin-bottom: 48px;
+        }
+
+        .section-label {
+            font-size: 0.6875rem;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            color: #999;
             font-weight: 600;
-            font-size: 0.85em;
-            margin-bottom: 15px;
-            display: inline-block;
+            margin-bottom: 12px;
         }
 
-        h2 {
-            font-size: 2.2em;
-            line-height: 1.4;
-            margin-bottom: 25px;
-            color: #1a1a1a;
-            font-weight: 700;
+        .abstract-text {
+            font-size: 1.0625rem;
+            line-height: 1.75;
+            color: #333;
         }
 
-        .authors {
-            color: #555;
-            margin-bottom: 10px;
-            font-style: italic;
-            font-size: 1.05em;
+        .key-points {
+            background: #fafafa;
+            padding: 32px;
+            margin: 48px 0;
+            border-left: 3px solid #000;
         }
 
-        .journal {
-            color: #667eea;
+        .key-points h3 {
+            font-size: 0.875rem;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            color: #000;
             font-weight: 600;
-            margin-bottom: 25px;
-            font-size: 1.05em;
+            margin-bottom: 16px;
         }
 
-        .abstract {
-            background: #f8f9fb;
-            padding: 30px;
-            border-radius: 12px;
-            margin: 30px 0;
-            border-left: 5px solid #667eea;
-            font-size: 1.05em;
-            line-height: 1.8;
+        .key-points ul {
+            list-style: none;
+            padding: 0;
         }
 
-        .abstract h3 {
-            margin-bottom: 15px;
-            color: #667eea;
-            font-size: 1.3em;
-            font-weight: 600;
-        }
-
-        .abstract p {
-            color: #2d3748;
-        }
-
-        .action-steps {
-            background: #fffbeb;
-            border-left: 5px solid #f59e0b;
-            padding: 30px;
-            border-radius: 12px;
-            margin: 30px 0;
-        }
-
-        .action-steps h3 {
-            color: #ea580c;
-            margin-bottom: 15px;
-            font-size: 1.3em;
-            font-weight: 600;
-        }
-
-        .action-steps ul {
-            margin-left: 25px;
-        }
-
-        .action-steps li {
-            margin: 12px 0;
-            font-size: 1.05em;
+        .key-points li {
+            font-size: 0.9375rem;
             line-height: 1.7;
-            color: #2d3748;
+            color: #333;
+            margin-bottom: 12px;
+            padding-left: 20px;
+            position: relative;
         }
 
-        .cta {
+        .key-points li:before {
+            content: "→";
+            position: absolute;
+            left: 0;
+            color: #000;
+        }
+
+        .read-paper {
             display: inline-block;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            padding: 16px 40px;
-            border-radius: 30px;
+            color: #000;
             text-decoration: none;
+            font-size: 0.9375rem;
             font-weight: 600;
-            font-size: 1.1em;
-            margin-top: 25px;
-            transition: all 0.3s ease;
+            padding: 14px 28px;
+            border: 2px solid #000;
+            transition: all 0.2s;
+            margin-top: 24px;
         }
 
-        .cta:hover {
-            transform: translateY(-3px);
-            box-shadow: 0 8px 20px rgba(102, 126, 234, 0.4);
+        .read-paper:hover {
+            background: #000;
+            color: #fff;
         }
 
         footer {
             text-align: center;
-            color: #64748b;
-            padding: 40px 20px;
-            margin-top: 40px;
+            padding: 60px 24px;
+            border-top: 1px solid #e5e5e5;
+            margin-top: 80px;
         }
 
         footer p {
-            font-size: 1em;
+            font-size: 0.8125rem;
+            color: #999;
             line-height: 1.6;
         }
 
         .loading {
             text-align: center;
-            color: #64748b;
-            padding: 80px 20px;
-            font-size: 1.3em;
-            background: white;
-            border-radius: 20px;
-            box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+            padding: 100px 24px;
+            color: #999;
         }
 
-        @media (max-width: 600px) {
+        @media (max-width: 640px) {
             h1 {
-                font-size: 2.5em;
+                font-size: 1.75rem;
             }
 
-            .tagline {
-                font-size: 1.1em;
+            .container {
+                padding: 40px 20px 80px;
             }
 
-            .article-card {
-                padding: 30px;
-            }
-
-            h2 {
-                font-size: 1.7em;
-            }
-
-            .abstract, .action-steps {
-                padding: 20px;
-                font-size: 1em;
-            }
-
-            .cta {
-                font-size: 1em;
-                padding: 14px 30px;
+            .key-points {
+                padding: 24px;
             }
         }
     </style>
 </head>
 <body>
-    <div class="container">
-        <header>
-            <h1>⚡ BioDose</h1>
-            <p class="tagline">Your daily dose of evidence-based health optimization</p>
-            <div class="badge">📚 Peer-Reviewed Science • 🔬 Free Access Journals</div>
-        </header>
-
-        <div id="content" class="loading">
-            Loading today's optimization boost...
+    <nav class="nav">
+        <div class="nav-content">
+            <div class="logo">BioDose</div>
+            <div class="meta-badge">Peer-Reviewed</div>
         </div>
+    </nav>
 
-        <footer>
-            <p>All articles sourced from peer-reviewed, open-access journals</p>
-            <p style="font-size: 0.9em; margin-top: 10px; opacity: 0.8;">
-                Updated daily • PubMed Central • arXiv • PLOS
-            </p>
-        </footer>
+    <div class="container">
+        <div id="content" class="loading">
+            Loading...
+        </div>
     </div>
 
+    <footer>
+        <p>All articles sourced from peer-reviewed, open-access journals</p>
+        <p style="margin-top: 8px; font-size: 0.75rem;">PubMed Central · Updated Daily</p>
+    </footer>
+
     <script>
-        // Load article data
         fetch('latest-article.json')
             .then(res => res.json())
             .then(data => {
@@ -265,54 +224,47 @@
                 const content = document.getElementById('content');
 
                 content.innerHTML = `
-                    <div class="article-card">
-                        <div class="boost-label">💡 Daily Optimization Boost</div>
+                    <div class="date">${formatDate(data.date)}</div>
 
-                        <div class="article-meta">
-                            <div class="meta-item">📅 ${formatDate(data.date)}</div>
-                            <div class="meta-item">📖 ${article.journal}</div>
-                            <div class="meta-item">✍️ ${article.authors}</div>
-                        </div>
+                    <h1>${article.title}</h1>
 
-                        <h2>${article.title}</h2>
-
-                        ${article.abstract ? `
-                        <div class="abstract">
-                            <h3>📋 The Science</h3>
-                            <p>${article.abstract}</p>
-                        </div>
-                        ` : ''}
-
-                        <div class="action-steps">
-                            <h3>⚡ Action Steps</h3>
-                            <p><em>Based on the research findings:</em></p>
-                            <ul>
-                                <li>Review the full study for specific protocols and dosages</li>
-                                <li>Consult with a healthcare provider before making changes</li>
-                                <li>Consider tracking your results if implementing</li>
-                            </ul>
-                        </div>
-
-                        <a href="${article.url}" target="_blank" rel="noopener" class="cta">
-                            📄 Read Full Study on PubMed →
-                        </a>
+                    <div class="meta">
+                        <div class="meta-item">${article.journal}</div>
+                        <div class="meta-item">${article.authors}</div>
+                        <div class="meta-item">${article.pubdate}</div>
                     </div>
+
+                    ${article.abstract ? `
+                    <div class="content-section">
+                        <div class="section-label">Abstract</div>
+                        <div class="abstract-text">${article.abstract}</div>
+                    </div>
+                    ` : ''}
+
+                    <div class="key-points">
+                        <h3>Key Takeaways</h3>
+                        <ul>
+                            <li>Review the full study for detailed methodology and protocols</li>
+                            <li>Consult healthcare professionals before implementing changes</li>
+                            <li>Consider your individual health context and goals</li>
+                        </ul>
+                    </div>
+
+                    <a href="${article.url}" target="_blank" rel="noopener" class="read-paper">
+                        Read Full Paper →
+                    </a>
                 `;
             })
             .catch(err => {
                 console.error('Error loading article:', err);
                 document.getElementById('content').innerHTML = `
-                    <div class="article-card">
-                        <h2>🔄 Loading...</h2>
-                        <p>Fetching today's article. This may take a moment on first load.</p>
-                    </div>
+                    <div class="loading">Unable to load article. Please refresh.</div>
                 `;
             });
 
         function formatDate(dateStr) {
             const date = new Date(dateStr);
             return date.toLocaleDateString('en-US', {
-                weekday: 'long',
                 year: 'numeric',
                 month: 'long',
                 day: 'numeric'
