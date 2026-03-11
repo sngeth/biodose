@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BioDose - Evidence-Based Health Optimization</title>
+    <meta name="description" content="Daily peer-reviewed science on sleep, performance, longevity, and health optimization">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        header {
+            text-align: center;
+            color: white;
+            margin-bottom: 40px;
+            padding: 40px 20px;
+        }
+
+        h1 {
+            font-size: 3em;
+            font-weight: 800;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+        }
+
+        .tagline {
+            font-size: 1.2em;
+            opacity: 0.95;
+            font-weight: 300;
+        }
+
+        .badge {
+            display: inline-block;
+            background: rgba(255,255,255,0.2);
+            backdrop-filter: blur(10px);
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 0.9em;
+            margin-top: 15px;
+            font-weight: 500;
+        }
+
+        .article-card {
+            background: white;
+            border-radius: 16px;
+            padding: 40px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.1);
+            margin-bottom: 30px;
+        }
+
+        .article-meta {
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+            margin-bottom: 20px;
+            font-size: 0.9em;
+            color: #666;
+        }
+
+        .meta-item {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+
+        .boost-label {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-weight: 600;
+            font-size: 0.85em;
+            margin-bottom: 15px;
+            display: inline-block;
+        }
+
+        h2 {
+            font-size: 2em;
+            line-height: 1.3;
+            margin-bottom: 20px;
+            color: #222;
+        }
+
+        .authors {
+            color: #666;
+            margin-bottom: 10px;
+            font-style: italic;
+        }
+
+        .journal {
+            color: #764ba2;
+            font-weight: 600;
+            margin-bottom: 20px;
+        }
+
+        .abstract {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 8px;
+            margin: 20px 0;
+            border-left: 4px solid #667eea;
+        }
+
+        .abstract h3 {
+            margin-bottom: 10px;
+            color: #667eea;
+        }
+
+        .action-steps {
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 20px;
+            border-radius: 8px;
+            margin: 20px 0;
+        }
+
+        .action-steps h3 {
+            color: #ff6b35;
+            margin-bottom: 10px;
+        }
+
+        .action-steps ul {
+            margin-left: 20px;
+        }
+
+        .action-steps li {
+            margin: 8px 0;
+        }
+
+        .cta {
+            display: inline-block;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 12px 30px;
+            border-radius: 25px;
+            text-decoration: none;
+            font-weight: 600;
+            margin-top: 20px;
+            transition: transform 0.2s;
+        }
+
+        .cta:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+        }
+
+        footer {
+            text-align: center;
+            color: white;
+            padding: 40px 20px;
+            opacity: 0.9;
+        }
+
+        .loading {
+            text-align: center;
+            color: white;
+            padding: 60px 20px;
+            font-size: 1.2em;
+        }
+
+        @media (max-width: 600px) {
+            h1 {
+                font-size: 2em;
+            }
+
+            .article-card {
+                padding: 25px;
+            }
+
+            h2 {
+                font-size: 1.5em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>⚡ BioDose</h1>
+            <p class="tagline">Your daily dose of evidence-based health optimization</p>
+            <div class="badge">📚 Peer-Reviewed Science • 🔬 Free Access Journals</div>
+        </header>
+
+        <div id="content" class="loading">
+            Loading today's optimization boost...
+        </div>
+
+        <footer>
+            <p>All articles sourced from peer-reviewed, open-access journals</p>
+            <p style="font-size: 0.9em; margin-top: 10px; opacity: 0.8;">
+                Updated daily • PubMed Central • arXiv • PLOS
+            </p>
+        </footer>
+    </div>
+
+    <script>
+        // Load article data
+        fetch('latest-article.json')
+            .then(res => res.json())
+            .then(data => {
+                const article = data.article;
+                const content = document.getElementById('content');
+
+                content.innerHTML = `
+                    <div class="article-card">
+                        <div class="boost-label">💡 Daily Optimization Boost</div>
+
+                        <div class="article-meta">
+                            <div class="meta-item">📅 ${formatDate(data.date)}</div>
+                            <div class="meta-item">📖 ${article.journal}</div>
+                            <div class="meta-item">✍️ ${article.authors}</div>
+                        </div>
+
+                        <h2>${article.title}</h2>
+
+                        <div class="abstract">
+                            <h3>📋 The Science</h3>
+                            <p>${article.abstract || 'Abstract available in full paper.'}</p>
+                        </div>
+
+                        <div class="action-steps">
+                            <h3>⚡ Action Steps</h3>
+                            <p><em>Based on the research findings:</em></p>
+                            <ul>
+                                <li>Review the full study for specific protocols and dosages</li>
+                                <li>Consult with a healthcare provider before making changes</li>
+                                <li>Consider tracking your results if implementing</li>
+                            </ul>
+                        </div>
+
+                        <a href="${article.url}" target="_blank" rel="noopener" class="cta">
+                            📄 Read Full Study on PubMed →
+                        </a>
+                    </div>
+                `;
+            })
+            .catch(err => {
+                console.error('Error loading article:', err);
+                document.getElementById('content').innerHTML = `
+                    <div class="article-card">
+                        <h2>🔄 Loading...</h2>
+                        <p>Fetching today's article. This may take a moment on first load.</p>
+                    </div>
+                `;
+            });
+
+        function formatDate(dateStr) {
+            const date = new Date(dateStr);
+            return date.toLocaleDateString('en-US', {
+                weekday: 'long',
+                year: 'numeric',
+                month: 'long',
+                day: 'numeric'
+            });
+        }
+    </script>
+</body>
+</html>

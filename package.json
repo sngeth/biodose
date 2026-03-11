@@ -1,0 +1,19 @@
+{
+  "name": "biodose",
+  "version": "1.0.0",
+  "description": "Daily evidence-based health optimization articles from peer-reviewed journals",
+  "main": "fetch-articles.js",
+  "scripts": {
+    "fetch": "node fetch-articles.js",
+    "test": "node fetch-articles.js"
+  },
+  "keywords": [
+    "health",
+    "optimization",
+    "science",
+    "pubmed",
+    "peer-reviewed"
+  ],
+  "author": "BioDose",
+  "license": "MIT"
+}
