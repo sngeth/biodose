@@ -1,14 +1,14 @@
 {
   "date": "2026-03-11",
   "article": {
-    "pmid": "41802227",
-    "title": "Association Between Digital Biomarkers of Health and Anxiety: Systematic Review and Meta-Analysis.",
-    "authors": "Lau Y, Chemas N, Ajeet Gokani H",
-    "journal": "J Med Internet Res",
-    "pubdate": "2026 Mar 9",
-    "abstract": "Digital biomarkers are gaining interest as proxy markers for mental health, as they enable passive and continuous data collection. However, the association between digital biomarkers of health and anxiety, both generalized anxiety disorder and anxiety symptoms, remains unknown.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41802227/",
-    "score": 19
+    "pmid": "41805821",
+    "title": "Effectiveness of adding inspiratory muscle training to a cardiac rehabilitation program in people with acute myocardial infarction revascularized by percutaneous coronary intervention (CARDIOINSPIRE): Study protocol for a randomized controlled trial.",
+    "authors": "Zuazagoitia-Lama-Noriega JM, Gómez-González AM, Moral-Munoz JA",
+    "journal": "PLoS One",
+    "pubdate": "2026",
+    "abstract": "This study aims to analyze the effectiveness of adding inspiratory muscle training (IMT) to a cardiac rehabilitation program (CRP) in people with acute myocardial infarction (AMI) revascularized by percutaneous coronary intervention (PCI) after 16 sessions. The biopsychosocial profile and the sex differences of this population will also be evaluated.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41805821/",
+    "score": 21
   },
   "alternates": [
     {
@@ -22,34 +22,34 @@
       "score": 19
     },
     {
-      "pmid": "41803035",
-      "title": "Proton Beam Therapy Versus Photon Radiotherapy for Pediatric Neuroblastoma: A Systematic Review and Meta-Analysis (TRP-2025 Neuroblastoma).",
-      "authors": "Nitta H, Mizumoto M, Maruo K",
-      "journal": "Cancer Med",
-      "pubdate": "2026 Mar",
+      "pmid": "41806998",
+      "title": "Comparative efficacy and acceptability of non-pharmacological and pharmacological treatments in post-stroke depression: protocol for a systematic review and network meta-analysis.",
+      "authors": "Yao X, Pu J, Fan Y",
+      "journal": "BMJ Open",
+      "pubdate": "2026 Mar 10",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41803035/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41806998/",
       "score": 19
     },
     {
-      "pmid": "41802231",
-      "title": "AI-Enabled Personalization of Semaglutide Therapy in Type 2 Diabetes: Systematic Review With an Integration Framework.",
-      "authors": "Barakat G, El Hajj Hassan S, Akhdar H",
-      "journal": "JMIR AI",
-      "pubdate": "2026 Mar 9",
+      "pmid": "41806994",
+      "title": "Protocol RCT for active informed consent in spine and urologic surgery in the metropolitan city of Bologna: does an increased patient engagement improve satisfaction of complex surgical procedures?",
+      "authors": "Boriani L, Quattrini I, Maccaferri B",
+      "journal": "BMJ Open",
+      "pubdate": "2026 Mar 10",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41802231/",
-      "score": 11
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41806994/",
+      "score": 9
     },
     {
-      "pmid": "41802350",
-      "title": "Cultivating future pharmacists: a systematic review of educator-led reflective practice methods and their impact on student competencies.",
-      "authors": "Maziyyah N, Rahajeng B, Wasityastuti W",
-      "journal": "Korean J Med Educ",
-      "pubdate": "2026 Mar",
+      "pmid": "41801204",
+      "title": "High-Frequency Oscillation vs Mechanical Ventilation for Neonatal Acute Respiratory Distress Syndrome: A Randomized Clinical Trial.",
+      "authors": "Li J, Liu K, Yang Q",
+      "journal": "JAMA Netw Open",
+      "pubdate": "2026 Mar 2",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41802350/",
-      "score": 11
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41801204/",
+      "score": 7
     }
   ]
 }
