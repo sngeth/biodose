@@ -27,7 +27,8 @@ BioDose automatically fetches and displays peer-reviewed scientific articles foc
 1. **Daily Fetch**: GitHub Actions runs `fetch-articles.js` every morning
 2. **Smart Selection**: Searches PubMed for recent optimization-focused studies
 3. **Scoring**: Ranks articles by relevance (RCTs, meta-analyses get priority)
-4. **Auto-update**: Best article is published to the site automatically
+4. **Full Abstract**: Extracts complete abstract text from PubMed
+5. **Auto-update**: Best article is published to the site automatically
 
 ## Data Sources
 
