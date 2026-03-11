@@ -75,6 +75,43 @@ async function fetchArticleDetails(pmids) {
 }
 
 /**
+ * Fetch full abstract for a PubMed ID
+ */
+async function fetchAbstract(pmid) {
+  return new Promise((resolve, reject) => {
+    const url = `${PUBMED_API}/efetch.fcgi?db=pubmed&id=${pmid}&retmode=xml&email=${EMAIL}`;
+
+    https.get(url, (res) => {
+      let data = '';
+      res.on('data', chunk => data += chunk);
+      res.on('end', () => {
+        try {
+          // Extract abstract text from XML
+          const abstractMatch = data.match(/<AbstractText[^>]*>([^<]+)<\/AbstractText>/i);
+          if (abstractMatch) {
+            resolve(abstractMatch[1].trim());
+          } else {
+            // Try to get it without tags
+            const simpleMatch = data.match(/<Abstract>([\s\S]*?)<\/Abstract>/i);
+            if (simpleMatch) {
+              const text = simpleMatch[1]
+                .replace(/<[^>]+>/g, ' ')
+                .replace(/\s+/g, ' ')
+                .trim();
+              resolve(text);
+            } else {
+              resolve('');
+            }
+          }
+        } catch (e) {
+          resolve('');
+        }
+      });
+    }).on('error', () => resolve(''));
+  });
+}
+
+/**
  * Score article relevance based on optimization focus
  */
 function scoreArticle(article) {
@@ -153,10 +190,15 @@ async function main() {
   articles.sort((a, b) => b.score - a.score);
   const topArticle = articles[0];
 
+  // Fetch full abstract for the top article
+  console.log('📄 Fetching full abstract...\n');
+  topArticle.abstract = await fetchAbstract(topArticle.pmid);
+
   console.log('🏆 Top article selected:');
   console.log(`   Title: ${topArticle.title}`);
   console.log(`   Journal: ${topArticle.journal}`);
   console.log(`   Score: ${topArticle.score}`);
+  console.log(`   Abstract: ${topArticle.abstract.substring(0, 150)}...`);
   console.log(`   URL: ${topArticle.url}\n`);
 
   // Save to JSON
