@@ -8,6 +8,9 @@
 const https = require('https');
 const fs = require('fs');
 
+// Anthropic API configuration
+const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
+
 // Health optimization keywords to search for
 const KEYWORDS = [
   'sleep quality OR circadian rhythm',
@@ -137,6 +140,90 @@ function scoreArticle(article) {
 }
 
 /**
+ * Generate key takeaways using Claude
+ */
+async function generateKeyTakeaways(article) {
+  return new Promise((resolve, reject) => {
+    const prompt = `You are a health optimization expert analyzing peer-reviewed medical research for a general audience interested in evidence-based health improvements.
+
+Study Title: ${article.title}
+Journal: ${article.journal}
+Authors: ${article.authors}
+Publication Date: ${article.pubdate}
+Abstract: ${article.abstract}
+
+Generate 3-5 concise, actionable key takeaways from this study. Each takeaway should:
+- Be specific and practical (not generic advice like "consult a doctor")
+- Include quantitative details when available (e.g., "20 minutes daily", "improved by 15%")
+- Be evidence-based and directly from the study findings
+- Be understandable to a health-conscious general audience
+- Focus on what was actually measured/found, not speculation
+
+Return ONLY a JSON array of strings, like:
+["Takeaway 1 with specific details", "Takeaway 2 with numbers/duration", "Takeaway 3 about the mechanism"]
+
+IMPORTANT: Return ONLY the JSON array, no markdown formatting, no explanations.`;
+
+    const requestData = JSON.stringify({
+      model: 'claude-sonnet-4-20250514',
+      max_tokens: 1000,
+      messages: [{
+        role: 'user',
+        content: prompt
+      }]
+    });
+
+    const options = {
+      hostname: 'api.anthropic.com',
+      port: 443,
+      path: '/v1/messages',
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'x-api-key': ANTHROPIC_API_KEY,
+        'anthropic-version': '2023-06-01',
+        'Content-Length': Buffer.byteLength(requestData)
+      }
+    };
+
+    const req = https.request(options, (res) => {
+      let data = '';
+      res.on('data', chunk => data += chunk);
+      res.on('end', () => {
+        try {
+          const response = JSON.parse(data);
+
+          if (response.type === 'error') {
+            reject(new Error(`API Error: ${response.error.message}`));
+            return;
+          }
+
+          if (response.content && response.content[0] && response.content[0].text) {
+            const text = response.content[0].text;
+            const jsonMatch = text.match(/\[[\s\S]*?\]/);
+            if (jsonMatch) {
+              const takeaways = JSON.parse(jsonMatch[0]);
+              resolve(takeaways);
+            } else {
+              reject(new Error('No valid JSON array found in response'));
+            }
+          } else {
+            console.error('Full API response:', JSON.stringify(response, null, 2));
+            reject(new Error('Unexpected API response format'));
+          }
+        } catch (err) {
+          reject(err);
+        }
+      });
+    });
+
+    req.on('error', reject);
+    req.write(requestData);
+    req.end();
+  });
+}
+
+/**
  * Main execution
  */
 async function main() {
@@ -201,6 +288,21 @@ async function main() {
   console.log(`   Abstract: ${topArticle.abstract.substring(0, 150)}...`);
   console.log(`   URL: ${topArticle.url}\n`);
 
+  // Generate key takeaways with Claude
+  console.log('💡 Generating key takeaways with Claude...\n');
+  let keyTakeaways = null;
+  if (ANTHROPIC_API_KEY) {
+    try {
+      keyTakeaways = await generateKeyTakeaways(topArticle);
+      console.log('✅ Key takeaways generated\n');
+    } catch (err) {
+      console.error('⚠️  Failed to generate takeaways:', err.message);
+      console.log('   Continuing without takeaways...\n');
+    }
+  } else {
+    console.log('⚠️  ANTHROPIC_API_KEY not set, skipping takeaway generation\n');
+  }
+
   // Save to JSON
   const output = {
     date: new Date().toISOString().split('T')[0],
@@ -219,6 +321,19 @@ async function main() {
   const archiveFile = `${archiveDir}/${output.date}.json`;
   fs.writeFileSync(archiveFile, JSON.stringify(output, null, 2));
   console.log(`✅ Saved to ${archiveFile}\n`);
+
+  // Save key takeaways to separate file if available
+  if (keyTakeaways) {
+    const takeawaysFile = `${archiveDir}/${output.date}-takeaways.json`;
+    const takeawaysData = {
+      date: output.date,
+      pmid: topArticle.pmid,
+      articleTitle: topArticle.title,
+      takeaways: keyTakeaways
+    };
+    fs.writeFileSync(takeawaysFile, JSON.stringify(takeawaysData, null, 2));
+    console.log(`✅ Saved key takeaways to ${takeawaysFile}\n`);
+  }
 
   // Generate archive index
   const archiveFiles = fs.readdirSync(archiveDir)

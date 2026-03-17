@@ -238,11 +238,32 @@
     </footer>
 
     <script>
-        fetch('latest-article.json')
-            .then(res => res.json())
-            .then(data => {
+        async function loadContent() {
+            try {
+                const articleRes = await fetch('latest-article.json');
+                const data = await articleRes.json();
                 const article = data.article;
+
+                // Try to load takeaways from separate file
+                let takeaways = null;
+                try {
+                    const takeawaysRes = await fetch(`archive/${data.date}-takeaways.json`);
+                    if (takeawaysRes.ok) {
+                        const takeawaysData = await takeawaysRes.json();
+                        takeaways = takeawaysData.takeaways;
+                    }
+                } catch (err) {
+                    console.log('No takeaways file found, using defaults');
+                }
+
                 const content = document.getElementById('content');
+
+                // Generate takeaways HTML
+                const takeawaysHTML = takeaways && takeaways.length > 0
+                    ? takeaways.map(t => `<li>${t}</li>`).join('')
+                    : `<li>Review the full study for detailed methodology and protocols</li>
+                       <li>Consult healthcare professionals before implementing changes</li>
+                       <li>Consider your individual health context and goals</li>`;
 
                 content.innerHTML = `
                     <div class="date">${formatDate(data.date)}</div>
@@ -265,9 +286,7 @@
                     <div class="key-points">
                         <h3>Key Takeaways</h3>
                         <ul>
-                            <li>Review the full study for detailed methodology and protocols</li>
-                            <li>Consult healthcare professionals before implementing changes</li>
-                            <li>Consider your individual health context and goals</li>
+                            ${takeawaysHTML}
                         </ul>
                     </div>
 
@@ -275,13 +294,13 @@
                         Read Full Paper →
                     </a>
                 `;
-            })
-            .catch(err => {
+            } catch(err) {
                 console.error('Error loading article:', err);
                 document.getElementById('content').innerHTML = `
                     <div class="loading">Unable to load article. Please refresh.</div>
                 `;
-            });
+            }
+        }
 
         function formatDate(dateStr) {
             const date = new Date(dateStr);
@@ -291,6 +310,9 @@
                 day: 'numeric'
             });
         }
+
+        // Load content on page load
+        loadContent();
     </script>
 </body>
 </html>
