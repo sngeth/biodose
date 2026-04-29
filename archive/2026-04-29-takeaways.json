@@ -1,0 +1,12 @@
+{
+  "date": "2026-04-29",
+  "pmid": "42044365",
+  "articleTitle": "RoBuster-Corpus Annotated With Risk of Bias Text Spans in Randomized Controlled Trials in Physiotherapy and Rehabilitation: Corpus Development and Annotation Study.",
+  "takeaways": [
+    "This study developed the first annotated corpus for identifying bias in physiotherapy and rehabilitation research trials, but did not provide specific health recommendations or measured health outcomes",
+    "The research focused on creating tools to help scientists automatically detect flawed study designs in rehabilitation research rather than testing any specific treatments or interventions",
+    "No quantitative health benefits, exercise protocols, or treatment durations were measured since this was a methodology study for improving research quality assessment",
+    "The study addresses the time-consuming manual process of evaluating hundreds of clinical trials for bias, but does not provide actionable health strategies for individuals",
+    "This computational research tool development study did not include patient participants or measure any physiological outcomes that would translate to practical health advice"
+  ]
+}
