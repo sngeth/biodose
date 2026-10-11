@@ -1,54 +1,54 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "article": {
-    "pmid": "42850158",
-    "title": "Lay cousellor-delivered wisdom-enhancement narrative-therapy and empathy-focused interventions to reduce loneliness among older adults: A three-arm randomized controlled trial.",
-    "authors": "Jiang D, Tang VFY, Chow EO",
-    "journal": "Int Psychogeriatr",
-    "pubdate": "2026 Oct 8",
-    "abstract": "Given the high prevalence and substantial adverse effects of loneliness, scalable psychosocial interventions to alleviate loneliness among older adults must be rigorously evaluated. Existing interventions focus on addressing perceived weaknesses rather than leveraging older adults strengths to mitigate loneliness. The objective is to assess the 6 and 12 months efficacy of two telephone-based interventions-wisdom enhancement narrative therapy (Tele-NT) and an empathy-focused intervention (Tele-EP)-compared with an active control group (ACG) in reducing loneliness.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42850158/",
-    "score": 21
+    "pmid": "42854018",
+    "title": "The effect of cognitive behavioral therapy for sleep and glycemic outcomes in people with diabetes: A systematic review and meta-analysis.",
+    "authors": "Jiao Y, He X, Ma L",
+    "journal": "Medicine (Baltimore)",
+    "pubdate": "2026 Oct 9",
+    "abstract": "Sleep disturbances are highly prevalent in individuals with diabetes and are associated with various adverse physiological, psychological, and social consequences. A growing body of research supports the effectiveness of cognitive behavioral therapy (CBT) in managing sleep problems in diabetes. However, the extent of its positive correlation with sleep quality and glycemic outcomes remains unclear due to the lack of rigorous evidence synthesis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42854018/",
+    "score": 19
   },
   "alternates": [
     {
-      "pmid": "42849524",
-      "title": "Effect of Duloxetine on the Perioperative Anxiety Status and Stress Response Following Total Hip Arthroplasty: A Randomized Controlled Trial.",
-      "authors": "Li B, Zhang M, Li Q",
-      "journal": "Orthop Surg",
-      "pubdate": "2026 Oct 8",
+      "pmid": "42850743",
+      "title": "When to Trust Epigenetic Clocks: Avoiding False Positives in Aging Interventions.",
+      "authors": "Borrus DS, Sehgal R, Armstrong JF",
+      "journal": "Aging Cell",
+      "pubdate": "2026 Oct",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42849524/",
-      "score": 17
-    },
-    {
-      "pmid": "42848825",
-      "title": "Genotype-informed docosahexaenoic acid dosing based on the FADS Indel to reduce preterm and prolonged gestation: A secondary analysis of the ADORE randomized trial.",
-      "authors": "Li YN, Kothapalli KSD, Carlson SE",
-      "journal": "PLoS Med",
-      "pubdate": "2026 Oct 8",
-      "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42848825/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42850743/",
       "score": 7
     },
     {
-      "pmid": "42849238",
-      "title": "Puerarin improved meat quality via the gut-muscle axis mediated by liver metabolites in chicken.",
-      "authors": "Zhaxi D, Zhang Y, Qing Y",
-      "journal": "Poult Sci",
-      "pubdate": "2026 Oct 7",
+      "pmid": "42853809",
+      "title": "Why does rotavirus vaccine effectiveness vary around the globe?",
+      "authors": "Woodyear S, Binti NN, Caddy SL",
+      "journal": "PLoS Pathog",
+      "pubdate": "2026 Oct",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42849238/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42853809/",
       "score": 7
     },
     {
-      "pmid": "42849307",
-      "title": "Supplementation with montmorillonite-nanoencapsulated turmeric extract improves performance and metabolic status of transition dairy goats during hot season.",
-      "authors": "Tajaddini MA, Dayani O, Ranjbar M",
-      "journal": "Animal",
-      "pubdate": "2026 Sep 22",
+      "pmid": "42855423",
+      "title": "A Prospective, Observational, Open-Label, Nonrandomized, Multicenter Study Measuring Functional Outcomes in a Novel Interspinous Stabilization Device in Patients With Low Back Pain: 12-Month Results for the REFINE Study.",
+      "authors": "Falowski SM, Raso LJ, Mangal V",
+      "journal": "Int J Spine Surg",
+      "pubdate": "2026 Oct 9",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42849307/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42855423/",
+      "score": 7
+    },
+    {
+      "pmid": "42855809",
+      "title": "Adding Tat-Beclin1 to an endurance training program promotes additive improvements in physical function in aged male mice.",
+      "authors": "Tchen TT, Rahman S, Ghiarone T",
+      "journal": "Physiol Rep",
+      "pubdate": "2026 Oct",
+      "abstract": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42855809/",
       "score": 7
     }
   ]
