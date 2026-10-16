@@ -1,16 +1,26 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "article": {
-    "pmid": "42873800",
-    "title": "Consequences of COVID-19 infection on educators' executive functions: A systematic review and meta-analysis protocol.",
-    "authors": "Rezende LMT, Silva KVC, Cuadro A",
+    "pmid": "42879389",
+    "title": "Coronary microvascular dysfunction in patients undergoing transcatheter aortic valve implantation: A systematic review and meta-analysis.",
+    "authors": "Panyawongkhanti M, Chintrakulchai P, Tanking C",
     "journal": "PLoS One",
     "pubdate": "2026",
-    "abstract": "The coronavirus disease (COVID-19) pandemic has had a direct impact on social life and workplace, impairing work performance due to social and health difficulties, including cardiorespiratory issues, vascular damage, and cognitive deficits. Moreover, infection can impair cognitive functioning, particularly executive functions, which are essential skills for developing activities that require the application and management of concepts, such as those required in a educator's work.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42873800/",
+    "abstract": "Coronary microvascular dysfunction (CMD) is a complication of severe aortic stenosis. Its prevalence after transcatheter aortic valve implantation (TAVI) and prognostic significance are understudied, as are the post-TAVI trajectories of microvascular indices.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42879389/",
     "score": 19
   },
   "alternates": [
+    {
+      "pmid": "42879323",
+      "title": "Feasibility of High-Intensity Interval Exercise in Young Adult Survivors of Pediatric Brain Tumor and Young Adults With Isocitrate Dehydrogenase-Mutant Gliomas (HYPE): Protocol for a Randomized Controlled Trial.",
+      "authors": "Cox E, Tahbaz M, Matarese E",
+      "journal": "JMIR Res Protoc",
+      "pubdate": "2026 Oct 15",
+      "abstract": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42879323/",
+      "score": 17
+    },
     {
       "pmid": "42873780",
       "title": "Dietary and lifestyle quality and endometrial cancer: Incidence and survivorship outcomes-An umbrella review of systematic reviews and meta-analyses.",
@@ -22,13 +32,13 @@
       "score": 11
     },
     {
-      "pmid": "42866687",
-      "title": "Topical application of urolithin A activates mitophagy and enhances mitochondrial function to promote skin longevity.",
-      "authors": "D'Amico D, Faitg J, Amaral F",
-      "journal": "iScience",
-      "pubdate": "2026 Oct 16",
+      "pmid": "42872182",
+      "title": "Hair cortisol in a naturalistic sample of outpatients with depressive disorders - A secondary analysis of a randomized-controlled trial and a status update on psychoneuroendocrine markers for clinical practice.",
+      "authors": "Schindler-Gmelch L, Fuhrmann LM, Steudte-Schmiedgen S",
+      "journal": "Compr Psychoneuroendocrinol",
+      "pubdate": "2026 Nov",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42866687/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42872182/",
       "score": 7
     },
     {
@@ -39,16 +49,6 @@
       "pubdate": "2026 Oct 14",
       "abstract": "",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42873550/",
-      "score": 7
-    },
-    {
-      "pmid": "42874294",
-      "title": "Molecular mechanisms underlying the effectiveness of triiodothyroacetic acid (Triac) in patients with resistance to thyroid hormone β (RTHβ): a multicentre, international, retrospective cohort study.",
-      "authors": "Liao W, Marelli F, Moran C",
-      "journal": "EBioMedicine",
-      "pubdate": "2026 Oct 14",
-      "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42874294/",
       "score": 7
     }
   ]
