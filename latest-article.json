@@ -1,55 +1,55 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "article": {
-    "pmid": "42877255",
-    "title": "Evaluating the effectiveness of an innovative sleep technology to support individuals who experience sleep problems and worry-related stress: a crossover randomized controlled trial.",
-    "authors": "Brummer HS, Haanstra TM, De Witte LP",
-    "journal": "Front Psychol",
+    "pmid": "42891171",
+    "title": "Correction: Mortality and cardiovascular risk of triglyceride-glucose and derived indices in cardiovascular-kidney-metabolic syndrome stages 0-3: a dose-response meta-analysis.",
+    "authors": "An JQ, He X, Hao QY",
+    "journal": "Front Endocrinol (Lausanne)",
     "pubdate": "2026",
-    "abstract": "Insomnia and worry-related stress are common problems affecting both mental and physical health. Assistive sleep technologies such as the Somnox 2 may improve sleep quality and reduce stress. This study investigated whether the Somnox improves sleep quality and reduces perceived stress in adults with sleep problems and worry-related stress. A secondary objective was its impact on quality of life. In a 14-week crossover randomized controlled trial, 40 adults (90% female), reporting various types of worries, participated. Each completed two 6-week periods of either Somnox use or no intervention, separated by a 1-day washout. Outcomes were assessed using the Sleep Condition Indicator (SCI), Perceived Stress Scale (PSS), Mental Health Quality of Life (MHQoL), and daily self-reported sleep and stress ratings. Compared with the control condition, Somnox use was associated with higher sleep quality (SCI: +4.22 &#xb1; 5.46, 95% CI 2.48 to 5.97, p &lt; 0.001) and lower perceived stress (PSS: -1.80 &#xb1; 5.61, 95% CI -3.59 to -0.01, p = 0.049). The SCI finding was supported by a baseline-adjusted first-period sensitivity analysis. Daily sleep scores increased (+0.15 &#xb1; 0.33, p = 0.012) and daily stress decreased (-0.11 &#xb1; 0.23, p = 0.056). No clear improvements were observed in quality of life. These findings suggest that Somnox is a feasible and promising sleep technology to improve sleep quality and possibly reduce worry-related stress in adults with worries. Future research should explore longer-term effects and diverse subgroups. Copyright &#xa9; 2026 Brummer, Haanstra and De Witte.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42877255/",
-    "score": 19
+    "abstract": "[This corrects the article DOI: 10.3389/fendo.2026.1927610.].",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42891171/",
+    "score": 13
   },
   "alternates": [
     {
-      "pmid": "42879389",
-      "title": "Coronary microvascular dysfunction in patients undergoing transcatheter aortic valve implantation: A systematic review and meta-analysis.",
-      "authors": "Panyawongkhanti M, Chintrakulchai P, Tanking C",
-      "journal": "PLoS One",
-      "pubdate": "2026",
+      "pmid": "42890000",
+      "title": "Tungsten Oxide-contained PEO Coatings on Ti-6Al‑4 V Alloys: Enhanced Surface Characteristics and Bioactivity for Bio-implant.",
+      "authors": "Logesh M, Deepalakshmi J, Ahn SG",
+      "journal": "ACS Omega",
+      "pubdate": "2026 Oct 13",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42879389/",
-      "score": 19
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42890000/",
+      "score": 7
     },
     {
-      "pmid": "42877173",
-      "title": "Multicomponent training versus elastic-band training for improving global cognition and executive function in older women: a randomized controlled trial.",
-      "authors": "Vásquez-Carrasco E, Aravena-Sagardia P, Barramuño-Medina M",
-      "journal": "Front Aging Neurosci",
+      "pmid": "42890753",
+      "title": "High-fiber diet altered gut microbiota, improved glycemic control, and reduced body weight in newly diagnosed type 2 diabetes and obesity.",
+      "authors": "Li Y, Liu Y, Chen Y",
+      "journal": "Front Microbiol",
       "pubdate": "2026",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42877173/",
-      "score": 17
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42890753/",
+      "score": 7
     },
     {
-      "pmid": "42879323",
-      "title": "Feasibility of High-Intensity Interval Exercise in Young Adult Survivors of Pediatric Brain Tumor and Young Adults With Isocitrate Dehydrogenase-Mutant Gliomas (HYPE): Protocol for a Randomized Controlled Trial.",
-      "authors": "Cox E, Tahbaz M, Matarese E",
-      "journal": "JMIR Res Protoc",
-      "pubdate": "2026 Oct 15",
-      "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42879323/",
-      "score": 17
-    },
-    {
-      "pmid": "42876817",
-      "title": "Efficacy of acupuncture, Chinese herbal medicine, combined acupuncture-herbal therapy, and western medication for adult chronic insomnia: a network meta-analysis.",
-      "authors": "Yang N, Li Y, Zhao J",
-      "journal": "Front Med (Lausanne)",
+      "pmid": "42891185",
+      "title": "Self-management support interventions for patients with cancer treatment-related oral mucositis: a scoping review.",
+      "authors": "Yan H, Liu X, Li J",
+      "journal": "Front Oncol",
       "pubdate": "2026",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42876817/",
-      "score": 13
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42891185/",
+      "score": 7
+    },
+    {
+      "pmid": "42891254",
+      "title": "Post In-Hospital Cardiac Arrest Simulation to Improve Medical Decision Making and Communication in Internal Medicine Residents.",
+      "authors": "Harris E, Collis A, Carlbom D",
+      "journal": "MedEdPORTAL",
+      "pubdate": "2026",
+      "abstract": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42891254/",
+      "score": 7
     }
   ]
 }
