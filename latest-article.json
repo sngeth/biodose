@@ -1,26 +1,16 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "article": {
-    "pmid": "42898568",
-    "title": "Palmar Cooling as a Thermoregulatory Intervention: Mechanistic Basis and Implications for Exercise and Clinical Applications.",
-    "authors": "Heins RJ, Reisinger WE 4th, Norris B",
-    "journal": "Transl Sports Med",
-    "pubdate": "2026",
-    "abstract": "During exercise, rising metabolic heat production creates competition for blood flow between skeletal muscle and the cutaneous vasculature. The resulting redistribution elevates cardiovascular (CV) strain and accelerates fatigue, particularly during environmental heat stress or in individuals with impaired thermoregulatory capacity. Strategies that enhance heat dissipation without further burdening CV function may therefore improve exercise tolerance. Palmar cooling (PC) is an intervention that targets the glabrous skin of the hands, where dense arteriovenous anastomoses facilitate high-flow, low-resistance blood flow and efficient convective heat exchange, thereby augmenting systemic heat dissipation through the peripheral circulation. Evidence in healthy and athletic populations suggests that PC can decrease thermal strain while improving endurance capacity, resistance training volume, and perceptual responses when applied under meaningful heat stress, although current findings remain heterogeneous. Given age- and disease-related reductions in thermoregulatory and CV reserve, PC may have translational relevance for enhancing exercise tolerance during rehabilitation, reducing heat-related illness risk, and supporting individuals with cardiopulmonary disease. Improved within-session tolerability may, in turn, facilitate greater cumulative training stimulus and adherence, with potential downstream benefits for overall exercise capacity. This narrative review discusses the thermoregulatory, CV, and exercise physiology underlying PC, evaluates the current evidence, and outlines future directions to support clinical translation.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42898568/",
-    "score": 7
+    "pmid": "42901594",
+    "title": "Dietary and lifestyle interventions in non-infectious uveitis: protocol for a systematic review.",
+    "authors": "Mohamed Naleer SA, Shah D, Lumanisakio J",
+    "journal": "BMJ Open",
+    "pubdate": "2026 Oct 20",
+    "abstract": "Non-infectious uveitis (NIU) is a significant cause of visual impairment&#x2014;often requiring long-term immunosuppressive therapy (which carries systemic side effects). There is growing interest in non-pharmacological adjuncts&#x2014;broadly encompassing: dietary supplements, lifestyle modifications and psychological interventions&#x2014;as an adjunct to treatment. However, the existing evidence is fragmented and lacks systematic synthesis. This is the first systematic review to identify and evaluate studies examining the relationship between modifiable lifestyle behaviours or dietary supplements and clinical outcomes in NIU, across both adult and paediatric populations.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42901594/",
+    "score": 13
   },
   "alternates": [
-    {
-      "pmid": "42900153",
-      "title": "Enhanced liver fibrosis score is associated with cognitive performance during an 11-year follow-up period.",
-      "authors": "Vataja E, Sääksjärvi K, Lehtisalo J",
-      "journal": "Hepatol Commun",
-      "pubdate": "2026 Nov 1",
-      "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42900153/",
-      "score": 7
-    },
     {
       "pmid": "42901024",
       "title": "New horizons in cooking and mealtime interventions for mild cognitive impairment and early dementia: a scoping review.",
@@ -32,23 +22,33 @@
       "score": 7
     },
     {
-      "pmid": "42901385",
-      "title": "Prognostic Value of Late Gadolinium Enhancement Findings in Isolated Left Ventricular Dilatation and Dilated Cardiomyopathy.",
-      "authors": "Gonçalves T, Duhamel S, Toupin S",
-      "journal": "J Cardiovasc Magn Reson",
-      "pubdate": "2026 Oct 20",
+      "pmid": "42898104",
+      "title": "Harnessing polymeric materials for applications in electric vehicle with sustainability contributions and prospects.",
+      "authors": "Rajeshkumar L, Ramesh M, Arulmozhivarman J",
+      "journal": "iScience",
+      "pubdate": "2026 Nov 20",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42901385/",
-      "score": 7
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42898104/",
+      "score": 5
     },
     {
-      "pmid": "42896144",
-      "title": "Engagement and Influence of Food-Related Videos on Social Media Within the Dietary Realities of Young Adults in Jamaica and the United Kingdom: Qualitative Cross-National Study.",
-      "authors": "Parks S, Albury C, Renzella J",
-      "journal": "J Med Internet Res",
-      "pubdate": "2026 Oct 19",
+      "pmid": "42898119",
+      "title": "Dietary diversity and healthy life expectancy among Chinese older adults: a multistate analysis of CLHLS, 2008-2018.",
+      "authors": "Shi J, Su S, Zhang Y",
+      "journal": "Front Public Health",
+      "pubdate": "2026",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42896144/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42898119/",
+      "score": 5
+    },
+    {
+      "pmid": "42898660",
+      "title": "Glucagon-like peptide-1 receptor agonists and aesthetic surgery: perioperative safety, timing, durability and body composition.",
+      "authors": "Chaturvedi R, Singh K, Chakole RR",
+      "journal": "Front Endocrinol (Lausanne)",
+      "pubdate": "2026",
+      "abstract": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42898660/",
       "score": 5
     }
   ]
