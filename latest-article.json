@@ -1,55 +1,55 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "article": {
-    "pmid": "42901594",
-    "title": "Dietary and lifestyle interventions in non-infectious uveitis: protocol for a systematic review.",
-    "authors": "Mohamed Naleer SA, Shah D, Lumanisakio J",
-    "journal": "BMJ Open",
-    "pubdate": "2026 Oct 20",
-    "abstract": "Non-infectious uveitis (NIU) is a significant cause of visual impairment&#x2014;often requiring long-term immunosuppressive therapy (which carries systemic side effects). There is growing interest in non-pharmacological adjuncts&#x2014;broadly encompassing: dietary supplements, lifestyle modifications and psychological interventions&#x2014;as an adjunct to treatment. However, the existing evidence is fragmented and lacks systematic synthesis. This is the first systematic review to identify and evaluate studies examining the relationship between modifiable lifestyle behaviours or dietary supplements and clinical outcomes in NIU, across both adult and paediatric populations.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42901594/",
-    "score": 13
+    "pmid": "42904129",
+    "title": "Impact of motor guided imagery therapy on stroke patients with pain symptoms: a three-level meta-analysis and systematic review of randomized controlled trials.",
+    "authors": "Li X, Ni H, Cui G",
+    "journal": "Front Neurol",
+    "pubdate": "2026",
+    "abstract": "Post-stroke pain is a common and intractable complication that hinders neurorehabilitation progress. Motor Guided Imagery (MGI), an emerging rehabilitation technique based on brain-computer interaction principles, has shown potential in relieving post-stroke pain, yet high-quality evidence on its multi-dimensional efficacy remains insufficient. This study aimed to systematically evaluate the effects of MGI on pain, sensorimotor function, sleep quality, life status, and psychological mood in stroke patients using a three-level meta-analysis.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42904129/",
+    "score": 31
   },
   "alternates": [
     {
-      "pmid": "42901024",
-      "title": "New horizons in cooking and mealtime interventions for mild cognitive impairment and early dementia: a scoping review.",
-      "authors": "Bannon SM, Elizalde Carrillo R, McCage S",
-      "journal": "J Nutr Health Aging",
-      "pubdate": "2026 Oct 20",
+      "pmid": "42906187",
+      "title": "A Multifaceted Intervention to Reduce Obesity Among Preschool Children in Suzhou City: Protocol for a Randomized Controlled Trial.",
+      "authors": "Yang P, Wang Y, Jiang X",
+      "journal": "JMIR Res Protoc",
+      "pubdate": "2026 Oct 21",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42901024/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42906187/",
+      "score": 19
+    },
+    {
+      "pmid": "42908119",
+      "title": "Acute caffeine and carbohydrate strategies for fatigue-related sport-specific performance in team-sport athletes: a systematic review and multilevel meta-analysis.",
+      "authors": "Xie S, Wen X",
+      "journal": "J Int Soc Sports Nutr",
+      "pubdate": "2026 Dec 30",
+      "abstract": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42908119/",
+      "score": 19
+    },
+    {
+      "pmid": "42905707",
+      "title": "Fecal Immunochemical Test Outreach for Colorectal Cancer Screening in Community Health Centers: A Randomized Clinical Trial.",
+      "authors": "Martinez ME, Roesch S, Largaespada V",
+      "journal": "JAMA Netw Open",
+      "pubdate": "2026 Oct 1",
+      "abstract": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42905707/",
       "score": 7
     },
     {
-      "pmid": "42898104",
-      "title": "Harnessing polymeric materials for applications in electric vehicle with sustainability contributions and prospects.",
-      "authors": "Rajeshkumar L, Ramesh M, Arulmozhivarman J",
-      "journal": "iScience",
-      "pubdate": "2026 Nov 20",
+      "pmid": "42907949",
+      "title": "Feasibility of a multidimensional interdisciplinary rehabilitation program for people with dementia and their informal primary caregivers - a randomized pilot trial with a caregiver focus.",
+      "authors": "Conradsson M, Olofsson B, Holmberg H",
+      "journal": "BMC Geriatr",
+      "pubdate": "2026 Oct 21",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42898104/",
-      "score": 5
-    },
-    {
-      "pmid": "42898119",
-      "title": "Dietary diversity and healthy life expectancy among Chinese older adults: a multistate analysis of CLHLS, 2008-2018.",
-      "authors": "Shi J, Su S, Zhang Y",
-      "journal": "Front Public Health",
-      "pubdate": "2026",
-      "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42898119/",
-      "score": 5
-    },
-    {
-      "pmid": "42898660",
-      "title": "Glucagon-like peptide-1 receptor agonists and aesthetic surgery: perioperative safety, timing, durability and body composition.",
-      "authors": "Chaturvedi R, Singh K, Chakole RR",
-      "journal": "Front Endocrinol (Lausanne)",
-      "pubdate": "2026",
-      "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42898660/",
-      "score": 5
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42907949/",
+      "score": 7
     }
   ]
 }
