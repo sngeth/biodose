@@ -1,35 +1,25 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "article": {
-    "pmid": "42926158",
-    "title": "Meta-analysis of diagnostic validation studies on noninvasive methods for detecting Helicobacter pylori in the pediatric population.",
-    "authors": "Montoya-Arango MA, Figueredo-Carmona EA, Zapata SY",
-    "journal": "Rev Gastroenterol Mex (Engl Ed)",
-    "pubdate": "2026 Oct 24",
-    "abstract": "Early detection and eradication of Helicobacter pylori in high-prevalence regions are effective for reducing the incidence of gastric cancer, but evidence supporting its detection in the pediatric population is less robust. Our aim was to evaluate the diagnostic validity of noninvasive methods for detecting Helicobacter pylori in pediatric patients based on studies published in the medical literature.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42926158/",
-    "score": 13
+    "pmid": "42927175",
+    "title": "Effects of an e-health enhanced multicomponent outpatient intervention for children and adolescents with overweight or obesity in routine primary care (STARKIDS): a cluster-randomized controlled trial.",
+    "authors": "Ziser K, Erschens R, Zipfel S",
+    "journal": "Lancet Reg Health Eur",
+    "pubdate": "2026 Dec",
+    "abstract": "Pediatric obesity is a major global public health challenge, associated with increased risk for numerous sequelae, persistence into adulthood, and growing economic burden. STARKIDS is a stepwise, tailored, e-health-enhanced, family-focused intervention in primary care. It integrates nutritional counseling targeting dietary energy density reduction, physical activity promotion, behavioral strategies, and psychosocial support.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42927175/",
+    "score": 21
   },
   "alternates": [
     {
-      "pmid": "42924444",
-      "title": "Psychoeducation for posttraumatic stress disorder in adults: a systematic review of formats and delivery approaches.",
-      "authors": "Nizon D, Decouvelaere A, Lusven M",
-      "journal": "Eur J Psychotraumatol",
-      "pubdate": "2026 Dec",
+      "pmid": "42927343",
+      "title": "The Effect of Mindfulness-Based Cognitive Therapy on Kinesiophobia in Older Adults with Chronic Knee Osteoarthritis: A Randomized Controlled Trial.",
+      "authors": "Kheirkhah Z, Fallahi F, Sharifi K",
+      "journal": "Clin Interv Aging",
+      "pubdate": "2026",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42924444/",
-      "score": 11
-    },
-    {
-      "pmid": "42924697",
-      "title": "A Combined Workplace Intervention Including Exercise and Nutrition for Health Promotion in Obese Office Workers: A Randomized Controlled Study.",
-      "authors": "Karatrantou K, Efthymiou E, Batatolis C",
-      "journal": "J Funct Morphol Kinesiol",
-      "pubdate": "2026 Oct 13",
-      "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42924697/",
-      "score": 9
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42927343/",
+      "score": 17
     },
     {
       "pmid": "42924713",
@@ -42,14 +32,24 @@
       "score": 9
     },
     {
-      "pmid": "42924324",
-      "title": "Pharmacological therapy and dietary intervention for obesity management: A one-year prospective cohort study in Baghdad.",
-      "authors": "Al-Atta DM, Kadhim ST, Al-Samarraee MF",
-      "journal": "J Educ Health Promot",
-      "pubdate": "2026",
+      "pmid": "42927676",
+      "title": "Oleanolic acid enhances milk fat synthesis in bovine mammary epithelial cells via antioxidant-lipid metabolism crosstalk: A natural strategy for improving dairy product quality.",
+      "authors": "Liu Z, Xia T, Peng C",
+      "journal": "Food Chem",
+      "pubdate": "2026 Oct 11",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42924324/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42927676/",
       "score": 7
+    },
+    {
+      "pmid": "42924207",
+      "title": "Seasonal Patterns of Longevity and Germination in Grass Species Determine the Vegetation Recovery Potential of Degraded Semi-Arid Savannas.",
+      "authors": "Tessema ZK, de Boer WF, Prins HHT",
+      "journal": "Plant Environ Interact",
+      "pubdate": "2026 Oct",
+      "abstract": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42924207/",
+      "score": 5
     }
   ]
 }
