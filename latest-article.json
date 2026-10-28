@@ -1,54 +1,54 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-28",
   "article": {
-    "pmid": "42927175",
-    "title": "Effects of an e-health enhanced multicomponent outpatient intervention for children and adolescents with overweight or obesity in routine primary care (STARKIDS): a cluster-randomized controlled trial.",
-    "authors": "Ziser K, Erschens R, Zipfel S",
-    "journal": "Lancet Reg Health Eur",
-    "pubdate": "2026 Dec",
-    "abstract": "Pediatric obesity is a major global public health challenge, associated with increased risk for numerous sequelae, persistence into adulthood, and growing economic burden. STARKIDS is a stepwise, tailored, e-health-enhanced, family-focused intervention in primary care. It integrates nutritional counseling targeting dietary energy density reduction, physical activity promotion, behavioral strategies, and psychosocial support.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42927175/",
-    "score": 21
+    "pmid": "42945164",
+    "title": "STRONG prehabilitation before elective ventral hernia repair: Learnings from recruitment challenges in a randomized controlled trial.",
+    "authors": "Jensen SAS, Lauridsen SV, Fonnes S",
+    "journal": "PLoS One",
+    "pubdate": "2026",
+    "abstract": "The impact of smoking, nutrition, alcohol, and physical inactivity (SNAP) on the outcome of ventral hernia repair remains underexplored. This trial aimed to evaluate the effect of targeted, intensive lifestyle prehabilitation on postoperative complications.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42945164/",
+    "score": 17
   },
   "alternates": [
     {
-      "pmid": "42927343",
-      "title": "The Effect of Mindfulness-Based Cognitive Therapy on Kinesiophobia in Older Adults with Chronic Knee Osteoarthritis: A Randomized Controlled Trial.",
-      "authors": "Kheirkhah Z, Fallahi F, Sharifi K",
-      "journal": "Clin Interv Aging",
-      "pubdate": "2026",
-      "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42927343/",
-      "score": 17
-    },
-    {
-      "pmid": "42924713",
-      "title": "Resistance Training Improves Respiratory Muscle Strength and Immune Response in Older Adults: A Randomized Clinical Trial.",
-      "authors": "Moreira-Silva NN, Moura-Maia MS, Silva-Reis A",
-      "journal": "J Funct Morphol Kinesiol",
-      "pubdate": "2026 Oct 19",
-      "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42924713/",
-      "score": 9
-    },
-    {
-      "pmid": "42927676",
-      "title": "Oleanolic acid enhances milk fat synthesis in bovine mammary epithelial cells via antioxidant-lipid metabolism crosstalk: A natural strategy for improving dairy product quality.",
-      "authors": "Liu Z, Xia T, Peng C",
-      "journal": "Food Chem",
-      "pubdate": "2026 Oct 11",
-      "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42927676/",
-      "score": 7
-    },
-    {
-      "pmid": "42924207",
-      "title": "Seasonal Patterns of Longevity and Germination in Grass Species Determine the Vegetation Recovery Potential of Degraded Semi-Arid Savannas.",
-      "authors": "Tessema ZK, de Boer WF, Prins HHT",
-      "journal": "Plant Environ Interact",
+      "pmid": "42945153",
+      "title": "Cost-effectiveness of recommended interventions for managing low back pain: A systematic review.",
+      "authors": "Mathieson S, Underwood M, Ibrahim M",
+      "journal": "PLoS Med",
       "pubdate": "2026 Oct",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42924207/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42945153/",
+      "score": 15
+    },
+    {
+      "pmid": "42945273",
+      "title": "Multimodal lifestyle intervention during neoadjuvant chemotherapy in patients with early breast cancer as a strategy to improve treatment response: Protocol of the DIANA randomized clinical trial.",
+      "authors": "Castillo H, Sebio-Garcia R, Martinez-Palli G",
+      "journal": "PLoS One",
+      "pubdate": "2026",
+      "abstract": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42945273/",
+      "score": 11
+    },
+    {
+      "pmid": "42942970",
+      "title": "Emotional Eating Beyond Obesity: A Transdiagnostic Conceptual Analysis of Phenotyping, Measurement, and Priorities for Clinical Validation.",
+      "authors": "Vasiliu O, Mangalagiu AG, Vasiliu DG",
+      "journal": "Nutrients",
+      "pubdate": "2026 Oct 16",
+      "abstract": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42942970/",
+      "score": 5
+    },
+    {
+      "pmid": "42943007",
+      "title": "Ketones and Sleep: A Narrative Review of Mechanisms, Preclinical Models, and Human Evidence.",
+      "authors": "Jensen JC, Leavitt PC, Nehs CJ",
+      "journal": "Nutrients",
+      "pubdate": "2026 Oct 20",
+      "abstract": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42943007/",
       "score": 5
     }
   ]
