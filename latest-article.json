@@ -1,55 +1,55 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "article": {
-    "pmid": "42945164",
-    "title": "STRONG prehabilitation before elective ventral hernia repair: Learnings from recruitment challenges in a randomized controlled trial.",
-    "authors": "Jensen SAS, Lauridsen SV, Fonnes S",
-    "journal": "PLoS One",
-    "pubdate": "2026",
-    "abstract": "The impact of smoking, nutrition, alcohol, and physical inactivity (SNAP) on the outcome of ventral hernia repair remains underexplored. This trial aimed to evaluate the effect of targeted, intensive lifestyle prehabilitation on postoperative complications.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42945164/",
-    "score": 17
+    "pmid": "42947345",
+    "title": "Efficacy of High-Frequency Transcranial Magnetic Stimulation Therapy for Depression With Insomnia Symptoms: A Systematic Review and Meta-Analysis Based on Randomized Controlled Trials.",
+    "authors": "Yang W, Chen S, Li X",
+    "journal": "Brain Behav",
+    "pubdate": "2026 Nov",
+    "abstract": "This meta-analysis evaluated the efficacy of high-frequency repetitive transcranial magnetic stimulation (HF-rTMS) targeting the left dorsolateral prefrontal cortex (DLPFC) in patients with comorbid depression and insomnia.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42947345/",
+    "score": 31
   },
   "alternates": [
     {
-      "pmid": "42945153",
-      "title": "Cost-effectiveness of recommended interventions for managing low back pain: A systematic review.",
-      "authors": "Mathieson S, Underwood M, Ibrahim M",
-      "journal": "PLoS Med",
-      "pubdate": "2026 Oct",
+      "pmid": "42950223",
+      "title": "Mind Your Heart-A Web-Based Dietary Approaches to Stop Hypertension Diet and Mindful Eating Intervention for Working Adults at Elevated Cardiovascular Risk: Pilot Randomized Controlled Trial.",
+      "authors": "Reina AM, Padilla HM, Beer JM",
+      "journal": "JMIR Form Res",
+      "pubdate": "2026 Oct 28",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42945153/",
-      "score": 15
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42950223/",
+      "score": 19
     },
     {
-      "pmid": "42945273",
-      "title": "Multimodal lifestyle intervention during neoadjuvant chemotherapy in patients with early breast cancer as a strategy to improve treatment response: Protocol of the DIANA randomized clinical trial.",
-      "authors": "Castillo H, Sebio-Garcia R, Martinez-Palli G",
-      "journal": "PLoS One",
+      "pmid": "42947996",
+      "title": "Relationships among heart rate variability, sleep disturbances, and fatigue in patients undergoing interventional therapy for hepatocellular carcinoma.",
+      "authors": "Xie B, Yun Y, Xu Z",
+      "journal": "Front Physiol",
       "pubdate": "2026",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42945273/",
-      "score": 11
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42947996/",
+      "score": 7
     },
     {
-      "pmid": "42942970",
-      "title": "Emotional Eating Beyond Obesity: A Transdiagnostic Conceptual Analysis of Phenotyping, Measurement, and Priorities for Clinical Validation.",
-      "authors": "Vasiliu O, Mangalagiu AG, Vasiliu DG",
-      "journal": "Nutrients",
-      "pubdate": "2026 Oct 16",
+      "pmid": "42950030",
+      "title": "Sustainable biobased packaging via integrated robotics/machine learning workflow for improved postharvest preservation.",
+      "authors": "Li Y, Chen T, Ma P",
+      "journal": "Sci Adv",
+      "pubdate": "2026 Oct 30",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42942970/",
-      "score": 5
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42950030/",
+      "score": 7
     },
     {
-      "pmid": "42943007",
-      "title": "Ketones and Sleep: A Narrative Review of Mechanisms, Preclinical Models, and Human Evidence.",
-      "authors": "Jensen JC, Leavitt PC, Nehs CJ",
-      "journal": "Nutrients",
-      "pubdate": "2026 Oct 20",
+      "pmid": "42951079",
+      "title": "A protein modification of TIGAR Fuels HCC Growth by Boosting Tumor Glucose Metabolism.",
+      "authors": "Rejano-Gordillo CM, Conter C, Peña-Sanfélix P",
+      "journal": "JHEP Rep",
+      "pubdate": "2026 Oct 28",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42943007/",
-      "score": 5
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42951079/",
+      "score": 7
     }
   ]
 }
