@@ -1,55 +1,55 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "article": {
-    "pmid": "42947345",
-    "title": "Efficacy of High-Frequency Transcranial Magnetic Stimulation Therapy for Depression With Insomnia Symptoms: A Systematic Review and Meta-Analysis Based on Randomized Controlled Trials.",
-    "authors": "Yang W, Chen S, Li X",
-    "journal": "Brain Behav",
-    "pubdate": "2026 Nov",
-    "abstract": "This meta-analysis evaluated the efficacy of high-frequency repetitive transcranial magnetic stimulation (HF-rTMS) targeting the left dorsolateral prefrontal cortex (DLPFC) in patients with comorbid depression and insomnia.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42947345/",
-    "score": 31
+    "pmid": "42953921",
+    "title": "A Behavior Change Technique-Based Text Messaging Intervention for Obesity Among Employed Adult Men Younger Than 40 Years: Pilot Randomized Controlled Trial.",
+    "authors": "Tomotake C, Ohyama Y",
+    "journal": "JMIR Form Res",
+    "pubdate": "2026 Oct 20",
+    "abstract": "In Japan, employed men younger than 40 years are not eligible for specific health guidance, and evidence regarding obesity interventions targeting this population is limited. Furthermore, due to the shortage of human resources in occupational health settings, a need has arisen for simple and implementable support methods. Support via SMS text message is expected to be a low-cost and scalable method for health guidance; however, its effectiveness in this target population has not been sufficiently evaluated.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42953921/",
+    "score": 19
   },
   "alternates": [
     {
-      "pmid": "42950223",
-      "title": "Mind Your Heart-A Web-Based Dietary Approaches to Stop Hypertension Diet and Mindful Eating Intervention for Working Adults at Elevated Cardiovascular Risk: Pilot Randomized Controlled Trial.",
-      "authors": "Reina AM, Padilla HM, Beer JM",
+      "pmid": "42954121",
+      "title": "Brief Motivational Workplace Intervention to Reduce Sugar-Sweetened Beverage Consumption Among Health Care Workers: Intervention Description, Feasibility, Fidelity, and Exploratory Outcomes From a Cluster Randomized Controlled Trial.",
+      "authors": "Fornell-Villalobos I, Jacobs LM, Van Cleve J",
       "journal": "JMIR Form Res",
-      "pubdate": "2026 Oct 28",
+      "pubdate": "2026 Oct 27",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42950223/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42954121/",
       "score": 19
     },
     {
-      "pmid": "42947996",
-      "title": "Relationships among heart rate variability, sleep disturbances, and fatigue in patients undergoing interventional therapy for hepatocellular carcinoma.",
-      "authors": "Xie B, Yun Y, Xu Z",
-      "journal": "Front Physiol",
-      "pubdate": "2026",
+      "pmid": "42954150",
+      "title": "Effects of Oral Resveratrol Supplementation on Inflammatory and Cardiometabolic Outcomes in Adults: Protocol for a Systematic Review and Meta-Analysis.",
+      "authors": "Herrera-Santelices A, Núñez Rivas JC, Rubio-Molina FP",
+      "journal": "JMIR Res Protoc",
+      "pubdate": "2026 Oct 27",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42947996/",
-      "score": 7
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42954150/",
+      "score": 19
     },
     {
-      "pmid": "42950030",
-      "title": "Sustainable biobased packaging via integrated robotics/machine learning workflow for improved postharvest preservation.",
-      "authors": "Li Y, Chen T, Ma P",
-      "journal": "Sci Adv",
-      "pubdate": "2026 Oct 30",
-      "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42950030/",
-      "score": 7
-    },
-    {
-      "pmid": "42951079",
-      "title": "A protein modification of TIGAR Fuels HCC Growth by Boosting Tumor Glucose Metabolism.",
-      "authors": "Rejano-Gordillo CM, Conter C, Peña-Sanfélix P",
-      "journal": "JHEP Rep",
+      "pmid": "42954133",
+      "title": "Real-Time Electronic Patient-Reported Outcome Monitoring With Digital Triage and Care-Team Integration in Early Breast Cancer: ENABLE Randomized Controlled Trial.",
+      "authors": "Deutsch TM, Volmer LL, Feisst M",
+      "journal": "J Med Internet Res",
       "pubdate": "2026 Oct 28",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42951079/",
-      "score": 7
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42954133/",
+      "score": 17
+    },
+    {
+      "pmid": "42955999",
+      "title": "Effect of nutrition counseling on complementary feeding practices among mothers with children aged 6-23 months in West Gojjam Zone, Northwest Ethiopia: A cluster-randomized controlled trial.",
+      "authors": "Birhanu S, Alene GD, Demilew YM",
+      "journal": "PLoS One",
+      "pubdate": "2026",
+      "abstract": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42955999/",
+      "score": 17
     }
   ]
 }
