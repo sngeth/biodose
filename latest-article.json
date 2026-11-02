@@ -1,45 +1,35 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "article": {
-    "pmid": "42964444",
-    "title": "Delivering online cognitive behavioral therapy to address mental health challenges in correctional workers: a randomized controlled trial.",
-    "authors": "Holmes C, Gutierrez G, Stephenson C",
-    "journal": "Front Psychiatry",
-    "pubdate": "2026",
-    "abstract": "Correctional workers (CWs), are frequently exposed to traumatic workplace events, placing them at higher risk of experiencing mental health disorders, including major depressive disorder (MDD), generalized anxiety disorder (GAD), and posttraumatic stress disorder (PTSD). Despite high prevalence of mental health challenges, CWs underutilize mental health services due to stigma, irregular work schedules, and accessibility issues. While cognitive behavioral therapy (CBT) is effective, it poses accessibility challenges. Electronic CBT (eCBT) offers a scalable, accessible alternative, but use among CWs remains underexplored.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42964444/",
-    "score": 17
+    "pmid": "42967580",
+    "title": "Effectiveness of Traditional Chinese Fitness Methods on Depressive Symptoms and Glycaemic Control in Patients With Type 2 Diabetes and Comorbid Depression: A Systematic Review and Meta-Analysis of Taijiquan and Baduanjin.",
+    "authors": "Tian X, Wei Y, Bo J",
+    "journal": "Endocrinol Diabetes Metab",
+    "pubdate": "2026 Nov",
+    "abstract": "To evaluate the overall effectiveness of traditional Chinese fitness methods (TCFMs)-specifically Taijiquan and Baduanjin-on depressive symptoms and glycaemic control in patients with Type 2 diabetes (T2DM) and comorbid depression.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42967580/",
+    "score": 21
   },
   "alternates": [
     {
-      "pmid": "42965018",
-      "title": "Decoding Parkinson's disease: a systematic review of qEEG biomarkers across clinical domains.",
-      "authors": "Makhsous M, Izadpanahi M, Rezayat E",
-      "journal": "Clin Neurophysiol Pract",
-      "pubdate": "2026",
-      "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42965018/",
-      "score": 11
-    },
-    {
-      "pmid": "42964693",
-      "title": "Unleashing children's potential: An evidence-based narrative review of strategies to enhance cognitive function and intelligence in school-age children.",
-      "authors": "Al-Beltagi M",
-      "journal": "World J Clin Pediatr",
-      "pubdate": "2026 Dec 9",
-      "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42964693/",
-      "score": 7
-    },
-    {
-      "pmid": "42966462",
-      "title": "The xyloglucan endotransglucosylase/hydrolase TaXTH16 enhances wheat drought tolerance and pre-harvest sprouting resistance via ABA-mediated pathways.",
-      "authors": "Bi H, Wu P, Wang J",
-      "journal": "J Adv Res",
+      "pmid": "42966713",
+      "title": "Cognitive impairment in uncontrolled vs controlled hypertension - systematic review and meta-analysis.",
+      "authors": "Tyjas K, Rusinek-Glück J, Ziółek W",
+      "journal": "Eur J Intern Med",
       "pubdate": "2026 Oct 31",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42966462/",
-      "score": 7
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42966713/",
+      "score": 19
+    },
+    {
+      "pmid": "42967038",
+      "title": "Effect of Adding Esketamine to Patient-Controlled Intravenous Analgesia on Rebound Pain After Interscalene Brachial Plexus Block: A Randomized Controlled Trial.",
+      "authors": "Zhong R, Zhong L, Zhu H",
+      "journal": "Drug Des Devel Ther",
+      "pubdate": "2026",
+      "abstract": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42967038/",
+      "score": 17
     },
     {
       "pmid": "42966498",
@@ -49,6 +39,16 @@
       "pubdate": "2026 Oct 31",
       "abstract": "",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42966498/",
+      "score": 7
+    },
+    {
+      "pmid": "42967696",
+      "title": "High-intensity pulsed electric field enhances anthocyanin stability in aqueous extracts from mangosteen peel during photooxidative storage.",
+      "authors": "Rodrigues PD, Silva EK",
+      "journal": "Food Res Int",
+      "pubdate": "2026 Dec 1",
+      "abstract": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42967696/",
       "score": 7
     }
   ]
