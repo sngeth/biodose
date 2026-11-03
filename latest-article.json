@@ -1,55 +1,55 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "article": {
-    "pmid": "42967580",
-    "title": "Effectiveness of Traditional Chinese Fitness Methods on Depressive Symptoms and Glycaemic Control in Patients With Type 2 Diabetes and Comorbid Depression: A Systematic Review and Meta-Analysis of Taijiquan and Baduanjin.",
-    "authors": "Tian X, Wei Y, Bo J",
-    "journal": "Endocrinol Diabetes Metab",
-    "pubdate": "2026 Nov",
-    "abstract": "To evaluate the overall effectiveness of traditional Chinese fitness methods (TCFMs)-specifically Taijiquan and Baduanjin-on depressive symptoms and glycaemic control in patients with Type 2 diabetes (T2DM) and comorbid depression.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42967580/",
-    "score": 21
+    "pmid": "42970451",
+    "title": "Effects of extremely low-volume high-intensity interval training combined with iron supplementation versus iron supplementation alone on postural control in young women with iron deficiency anemia: a randomized controlled trial.",
+    "authors": "Harrabi MA, Fendri T, Ayed R",
+    "journal": "J Int Soc Sports Nutr",
+    "pubdate": "2026 Dec 30",
+    "abstract": "Recent research revealed postural control deterioration in young women with Iron Deficiency Anemia (IDA). To address this postural deficit, it is crucial to develop intervention strategies for postural rehabilitation in these individuals. This study aimed to explore the effect of 8-week extremely low-volume high-intensity interval training (HIIT) based on plyometric exercises combined with iron supplementation versus simple iron treatment on postural control of young women with IDA.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42970451/",
+    "score": 17
   },
   "alternates": [
     {
-      "pmid": "42966713",
-      "title": "Cognitive impairment in uncontrolled vs controlled hypertension - systematic review and meta-analysis.",
-      "authors": "Tyjas K, Rusinek-Glück J, Ziółek W",
-      "journal": "Eur J Intern Med",
-      "pubdate": "2026 Oct 31",
+      "pmid": "42970759",
+      "title": "Digital Resilience-Based Course-Game Sequential Intervention for Social Participation in Stroke Survivors: Development and Usability Study.",
+      "authors": "Zhou X, Lv Y, Liu R",
+      "journal": "JMIR Serious Games",
+      "pubdate": "2026 Nov 2",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42966713/",
-      "score": 19
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42970759/",
+      "score": 7
     },
     {
-      "pmid": "42967038",
-      "title": "Effect of Adding Esketamine to Patient-Controlled Intravenous Analgesia on Rebound Pain After Interscalene Brachial Plexus Block: A Randomized Controlled Trial.",
-      "authors": "Zhong R, Zhong L, Zhu H",
+      "pmid": "42965988",
+      "title": "Suggestive genetic association between age-related biomarkers and hearing impairment: a mendelian randomization study.",
+      "authors": "Jiang X, Tang C, Yuan W",
+      "journal": "Braz J Otorhinolaryngol",
+      "pubdate": "2026 Oct 31",
+      "abstract": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42965988/",
+      "score": 5
+    },
+    {
+      "pmid": "42967138",
+      "title": "Effect of Preoperative Intranasal Dexmedetomidine on Postoperative Myocardial Injury in Patients Undergoing Coronary Artery Bypass Grafting.",
+      "authors": "Li Q, Hu S, Fu Y",
       "journal": "Drug Des Devel Ther",
       "pubdate": "2026",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42967038/",
-      "score": 17
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42967138/",
+      "score": 5
     },
     {
-      "pmid": "42966498",
-      "title": "Differentiated obesity treatment: Pharmacological CRF2 agonism drives fat loss, skeletal muscle hypertrophy and improved glucose metabolism in preclinical obesity.",
-      "authors": "Niss K, Lundh S, Patel R",
-      "journal": "Mol Metab",
-      "pubdate": "2026 Oct 31",
+      "pmid": "42967495",
+      "title": "Repurposing Regulatory Rodent Toxicology Safety Archives to Identify Candidate Hormetic Longevity Agents Highlights Emergent Mitochondrial Mechanisms.",
+      "authors": "Miwa S, Kucheryavenko O, Herrmann K",
+      "journal": "Aging Cell",
+      "pubdate": "2026 Nov",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42966498/",
-      "score": 7
-    },
-    {
-      "pmid": "42967696",
-      "title": "High-intensity pulsed electric field enhances anthocyanin stability in aqueous extracts from mangosteen peel during photooxidative storage.",
-      "authors": "Rodrigues PD, Silva EK",
-      "journal": "Food Res Int",
-      "pubdate": "2026 Dec 1",
-      "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42967696/",
-      "score": 7
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42967495/",
+      "score": 5
     }
   ]
 }
