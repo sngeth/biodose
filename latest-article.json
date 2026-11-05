@@ -1,55 +1,55 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "article": {
-    "pmid": "42976338",
-    "title": "Co-Designed Text Messaging Intervention for Parents of Children With Early Childhood Caries: Randomized Controlled Trial.",
-    "authors": "Chen R, Irving M, Kumar H",
-    "journal": "JMIR Mhealth Uhealth",
-    "pubdate": "2026 Nov 3",
-    "abstract": "The aim of this study was to assess the effectiveness of the SmilesUp 12-week SMS text messaging-based education and support program to improve parents' management of their children's oral health behaviors compared to standard clinical care.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42976338/",
-    "score": 19
+    "pmid": "42981375",
+    "title": "Physiological and health-related effects of 5G-relevant radiofrequency fields: A systematic review of experimental studies in humans and mammals.",
+    "authors": "Bodewein L, Dechent D, Emonds T",
+    "journal": "PLoS One",
+    "pubdate": "2026",
+    "abstract": "The introduction of the latest mobile communications standard of the fifth generation (5G) is accompanied by controversial discussions about potential health risks due to radiofrequency electromagnetic field exposure. Therefore, we conducted a systematic review of experimental and epidemiological studies investigating the physiological and health-related effects of 5G-relevant radiofrequency electromagnetic fields in humans and mammals. The review protocol has been registered in PROSPERO (CRD42022374434) and the review conforms to the PRISMA guidelines. The risk of bias and the quality of included studies were assessed using the recommended approach by the Office of Health Assessment and Translation of the National Toxicology Program. A total of 100 experimental animal and seven human controlled studies were included, analyzed, and evaluated. Narrative summaries were performed for a total of 23 topics (e.g., effects on cognition, male fertility, and thermoregulation). However, investigated species and outcomes in studies were very heterogeneous. Additionally, most studies had substantial methodological weaknesses. Only 11 studies showed a low risk of bias. In summary, for most topics, the current scientific data were inadequate to draw any conclusions about the physiological and health-related effects of radiofrequency electromagnetic fields in the investigated frequency range of 3-30 GHz. However, moderate evidence below the limit values was found for cytokine secretion in mice and low evidence was found for structural changes in the hippocampus of rats above the limit values, when taking the exposure limits presently recommended by the International Commission on Non-Ionizing Radiation Protection as the basis. Therefore, we strongly recommend high-quality systematic research. Particular attention should be paid to reasonable hypotheses, experimental studies on effects on the skin, eyes, and temperature increase, exposures to different frequencies and field strengths, as well as epidemiological studies with separate consideration of 5G (if possible).",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42981375/",
+    "score": 11
   },
   "alternates": [
     {
-      "pmid": "42976356",
-      "title": "AI Adoption, Adaptation, and Workforce Sustainability in Medical Imaging: Systematic Review and Conceptual Framework.",
-      "authors": "Brough P, Zobair KM, Pool J",
-      "journal": "JMIR AI",
-      "pubdate": "2026 Nov 3",
+      "pmid": "42982071",
+      "title": "Best practices in communication of environmental health risks due to localised pollution events: a mixed-methods systematic review.",
+      "authors": "Jansen P, Bongaerts E, Apers S",
+      "journal": "Lancet Planet Health",
+      "pubdate": "2026 Nov 4",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42976356/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42982071/",
       "score": 11
     },
     {
-      "pmid": "42974652",
-      "title": "Effectiveness of a physical literacy intervention program for young and middle-aged adults with hypertension: a mixed-methods quasi-experimental study.",
-      "authors": "Ma G",
-      "journal": "Front Endocrinol (Lausanne)",
-      "pubdate": "2026",
-      "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42974652/",
-      "score": 9
-    },
-    {
-      "pmid": "42975406",
-      "title": "Full-Service Mobile Food Markets and Dietary Quality in Low-Income Housing Communities: A Randomized Clinical Trial.",
-      "authors": "Horning ML, Gorman KS, Wagner S",
+      "pmid": "42981096",
+      "title": "RELAX Perinatal Digital Intervention to Prevent Increasing Anxiety: A Randomized Clinical Trial.",
+      "authors": "Hirsch CR, Volkmer B, Sawjani Y",
       "journal": "JAMA Netw Open",
       "pubdate": "2026 Nov 2",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42975406/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42981096/",
+      "score": 9
+    },
+    {
+      "pmid": "42977801",
+      "title": "Temporal cortical gray matter volume relates to symptom improvement during cognitive behavioral therapy for depression.",
+      "authors": "Schöniger K, Kamrla R, König P",
+      "journal": "Transl Psychiatry",
+      "pubdate": "2026 Nov 3",
+      "abstract": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42977801/",
       "score": 7
     },
     {
-      "pmid": "42973465",
-      "title": "NPAS2 attenuates diabetic cardiomyopathy by preserving pyruvate dehydrogenase activity and mitochondrial metabolic homeostasis.",
-      "authors": "Li W, Han B, Zhu D",
-      "journal": "Front Cardiovasc Med",
-      "pubdate": "2026",
+      "pmid": "42981445",
+      "title": "A metabolomic signature of weight-loss and its associations with BMI-linked diseases: A post-hoc analysis of two intervention trials and a mendelian randomisation study.",
+      "authors": "Sunderland N, Smith ML, McConnachie A",
+      "journal": "PLoS Med",
+      "pubdate": "2026 Nov 4",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42973465/",
-      "score": 5
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42981445/",
+      "score": 7
     }
   ]
 }
