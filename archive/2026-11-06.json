@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-06",
+  "article": {
+    "pmid": "42987025",
+    "title": "Experimental evidence for electroacupuncture in managing pain from chemotherapy-induced peripheral neuropathy: a systematic review and meta-analysis.",
+    "authors": "Kong Y, You L, Hu M",
+    "journal": "Braz J Med Biol Res",
+    "pubdate": "2026",
+    "abstract": "This study systematically evaluated the evidence from animal experiments on electroacupuncture (EA) for chemotherapy-induced peripheral neuropathy (CIPN) pain models. A systematic review and meta-analysis was conducted using the PICOS framework to assess the behavioral and molecular effects of EA and clarify its underlying mechanisms and translational potential. Thirteen eligible studies involving 235 animals were included. Methodological quality scores ranged from 5 to 8, with a mean of 6.5. Meta-analysis showed that EA significantly increased the paw withdrawal threshold (PWT), thermal pain withdrawal latency (PWL), and nerve conduction velocity (NCV), while reducing cold allodynia. At the molecular level, EA significantly decreased the expression of pro-inflammatory and sensitization markers, including TNF-&#x3b1;, IL-1&#x3b2;, GFAP, TLR4, TRPA1, and TRPV1, and increased the oxidative stress regulator Nrf2. Sensitivity analysis, publication bias assessment, subgroup analysis, and meta-regression were performed for the highly heterogeneous PWT outcome. Significant publication bias was identified and may account for much of the observed heterogeneity. Sensitivity analysis for TRPV1 suggested that this result may be disproportionately influenced by individual studies and should therefore be interpreted cautiously. Heterogeneity in the remaining outcomes likely reflects differences in animal models, acupoint selection, treatment duration, and intervention protocols. Overall, EA demonstrated analgesic and neuroprotective effects in CIPN models, primarily through modulation of neuroinflammation, attenuation of oxidative stress, and reduction of neuronal sensitization. These findings provide systematic preclinical evidence supporting EA as a promising adjuvant therapy for CIPN pain and highlight the need for high-quality clinical trials to optimize treatment protocols and facilitate clinical translation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42987025/",
+    "score": 19
+  },
+  "alternates": [
+    {
+      "pmid": "42987829",
+      "title": "Clinical stewardship for medical AI translation: A systematic review of technological, human, and organizational barriers.",
+      "authors": "Wang N, Guan Z, Zeng D",
+      "journal": "Cell Rep Med",
+      "pubdate": "2026 Nov 5",
+      "abstract": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42987829/",
+      "score": 11
+    },
+    {
+      "pmid": "42985061",
+      "title": "Effectiveness of an Extension for Community Health Outcomes case-based virtual community of practice model on clinician outcomes for the management of long COVID and fatiguing illnesses: a randomized control trial.",
+      "authors": "Zuber A, Rothwell JT, Samaniego JC",
+      "journal": "Front Health Serv",
+      "pubdate": "2026",
+      "abstract": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42985061/",
+      "score": 9
+    },
+    {
+      "pmid": "42986879",
+      "title": "Integrated nutrition-sensitive interventions are associated with improvements in household food security and dietary diversity among vulnerable women in the host communities of Cox's Bazar, Bangladesh: Findings from a pre-post comparison study.",
+      "authors": "Afroz M, Rahman S, Akter F",
+      "journal": "PLoS One",
+      "pubdate": "2026",
+      "abstract": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42986879/",
+      "score": 9
+    },
+    {
+      "pmid": "42986805",
+      "title": "Compliance with the 2021 surviving sepsis campaign Hour-1 Bundle and impact on patient outcomes in a resource-limited setting: A quality improvement initiative in a referral hospital in Rwanda.",
+      "authors": "Mahoro JD, Mvukiyehe JP, Riviello E",
+      "journal": "PLOS Glob Public Health",
+      "pubdate": "2026",
+      "abstract": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42986805/",
+      "score": 7
+    }
+  ]
+}

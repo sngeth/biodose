@@ -1,54 +1,54 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "article": {
-    "pmid": "42981375",
-    "title": "Physiological and health-related effects of 5G-relevant radiofrequency fields: A systematic review of experimental studies in humans and mammals.",
-    "authors": "Bodewein L, Dechent D, Emonds T",
-    "journal": "PLoS One",
+    "pmid": "42987025",
+    "title": "Experimental evidence for electroacupuncture in managing pain from chemotherapy-induced peripheral neuropathy: a systematic review and meta-analysis.",
+    "authors": "Kong Y, You L, Hu M",
+    "journal": "Braz J Med Biol Res",
     "pubdate": "2026",
-    "abstract": "The introduction of the latest mobile communications standard of the fifth generation (5G) is accompanied by controversial discussions about potential health risks due to radiofrequency electromagnetic field exposure. Therefore, we conducted a systematic review of experimental and epidemiological studies investigating the physiological and health-related effects of 5G-relevant radiofrequency electromagnetic fields in humans and mammals. The review protocol has been registered in PROSPERO (CRD42022374434) and the review conforms to the PRISMA guidelines. The risk of bias and the quality of included studies were assessed using the recommended approach by the Office of Health Assessment and Translation of the National Toxicology Program. A total of 100 experimental animal and seven human controlled studies were included, analyzed, and evaluated. Narrative summaries were performed for a total of 23 topics (e.g., effects on cognition, male fertility, and thermoregulation). However, investigated species and outcomes in studies were very heterogeneous. Additionally, most studies had substantial methodological weaknesses. Only 11 studies showed a low risk of bias. In summary, for most topics, the current scientific data were inadequate to draw any conclusions about the physiological and health-related effects of radiofrequency electromagnetic fields in the investigated frequency range of 3-30 GHz. However, moderate evidence below the limit values was found for cytokine secretion in mice and low evidence was found for structural changes in the hippocampus of rats above the limit values, when taking the exposure limits presently recommended by the International Commission on Non-Ionizing Radiation Protection as the basis. Therefore, we strongly recommend high-quality systematic research. Particular attention should be paid to reasonable hypotheses, experimental studies on effects on the skin, eyes, and temperature increase, exposures to different frequencies and field strengths, as well as epidemiological studies with separate consideration of 5G (if possible).",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42981375/",
-    "score": 11
+    "abstract": "This study systematically evaluated the evidence from animal experiments on electroacupuncture (EA) for chemotherapy-induced peripheral neuropathy (CIPN) pain models. A systematic review and meta-analysis was conducted using the PICOS framework to assess the behavioral and molecular effects of EA and clarify its underlying mechanisms and translational potential. Thirteen eligible studies involving 235 animals were included. Methodological quality scores ranged from 5 to 8, with a mean of 6.5. Meta-analysis showed that EA significantly increased the paw withdrawal threshold (PWT), thermal pain withdrawal latency (PWL), and nerve conduction velocity (NCV), while reducing cold allodynia. At the molecular level, EA significantly decreased the expression of pro-inflammatory and sensitization markers, including TNF-&#x3b1;, IL-1&#x3b2;, GFAP, TLR4, TRPA1, and TRPV1, and increased the oxidative stress regulator Nrf2. Sensitivity analysis, publication bias assessment, subgroup analysis, and meta-regression were performed for the highly heterogeneous PWT outcome. Significant publication bias was identified and may account for much of the observed heterogeneity. Sensitivity analysis for TRPV1 suggested that this result may be disproportionately influenced by individual studies and should therefore be interpreted cautiously. Heterogeneity in the remaining outcomes likely reflects differences in animal models, acupoint selection, treatment duration, and intervention protocols. Overall, EA demonstrated analgesic and neuroprotective effects in CIPN models, primarily through modulation of neuroinflammation, attenuation of oxidative stress, and reduction of neuronal sensitization. These findings provide systematic preclinical evidence supporting EA as a promising adjuvant therapy for CIPN pain and highlight the need for high-quality clinical trials to optimize treatment protocols and facilitate clinical translation.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42987025/",
+    "score": 19
   },
   "alternates": [
     {
-      "pmid": "42982071",
-      "title": "Best practices in communication of environmental health risks due to localised pollution events: a mixed-methods systematic review.",
-      "authors": "Jansen P, Bongaerts E, Apers S",
-      "journal": "Lancet Planet Health",
-      "pubdate": "2026 Nov 4",
+      "pmid": "42987829",
+      "title": "Clinical stewardship for medical AI translation: A systematic review of technological, human, and organizational barriers.",
+      "authors": "Wang N, Guan Z, Zeng D",
+      "journal": "Cell Rep Med",
+      "pubdate": "2026 Nov 5",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42982071/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42987829/",
       "score": 11
     },
     {
-      "pmid": "42981096",
-      "title": "RELAX Perinatal Digital Intervention to Prevent Increasing Anxiety: A Randomized Clinical Trial.",
-      "authors": "Hirsch CR, Volkmer B, Sawjani Y",
-      "journal": "JAMA Netw Open",
-      "pubdate": "2026 Nov 2",
+      "pmid": "42985061",
+      "title": "Effectiveness of an Extension for Community Health Outcomes case-based virtual community of practice model on clinician outcomes for the management of long COVID and fatiguing illnesses: a randomized control trial.",
+      "authors": "Zuber A, Rothwell JT, Samaniego JC",
+      "journal": "Front Health Serv",
+      "pubdate": "2026",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42981096/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42985061/",
       "score": 9
     },
     {
-      "pmid": "42977801",
-      "title": "Temporal cortical gray matter volume relates to symptom improvement during cognitive behavioral therapy for depression.",
-      "authors": "Schöniger K, Kamrla R, König P",
-      "journal": "Transl Psychiatry",
-      "pubdate": "2026 Nov 3",
+      "pmid": "42986879",
+      "title": "Integrated nutrition-sensitive interventions are associated with improvements in household food security and dietary diversity among vulnerable women in the host communities of Cox's Bazar, Bangladesh: Findings from a pre-post comparison study.",
+      "authors": "Afroz M, Rahman S, Akter F",
+      "journal": "PLoS One",
+      "pubdate": "2026",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42977801/",
-      "score": 7
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42986879/",
+      "score": 9
     },
     {
-      "pmid": "42981445",
-      "title": "A metabolomic signature of weight-loss and its associations with BMI-linked diseases: A post-hoc analysis of two intervention trials and a mendelian randomisation study.",
-      "authors": "Sunderland N, Smith ML, McConnachie A",
-      "journal": "PLoS Med",
-      "pubdate": "2026 Nov 4",
+      "pmid": "42986805",
+      "title": "Compliance with the 2021 surviving sepsis campaign Hour-1 Bundle and impact on patient outcomes in a resource-limited setting: A quality improvement initiative in a referral hospital in Rwanda.",
+      "authors": "Mahoro JD, Mvukiyehe JP, Riviello E",
+      "journal": "PLOS Glob Public Health",
+      "pubdate": "2026",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42981445/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42986805/",
       "score": 7
     }
   ]
