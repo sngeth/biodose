@@ -1,35 +1,35 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "article": {
-    "pmid": "42999869",
-    "title": "Association of heavy metal with sperm parameters and sex hormones: A systematic review and meta-analysis of observational studies.",
-    "authors": "Goodarzi S, Shafiee A, Rashidian P",
-    "journal": "Eur J Obstet Gynecol Reprod Biol X",
-    "pubdate": "2026 Dec",
-    "abstract": "Findings regarding the reproductive toxicity effect of heavy metals on sperm parameters and sex hormones level remain inconsistent. This study systematically reviewed and pooled the existing literature to assess the associations of heavy metal levels with sperm parameters and sex hormones.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42999869/",
-    "score": 19
+    "pmid": "43002170",
+    "title": "Effects of Transcranial Direct Current Stimulation on Core Symptoms and Sleep Disturbances in Children With Autism Spectrum Disorder: A Meta-Analysis of Randomized Controlled Trials.",
+    "authors": "Wang M, Yang M",
+    "journal": "Brain Behav",
+    "pubdate": "2026 Nov",
+    "abstract": "This meta-analysis was designed to determine whether transcranial direct current stimulation (tDCS) confers measurable benefits for selected behavioral features of autism spectrum disorder (ASD) and for sleep problems in pediatric ASD populations.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43002170/",
+    "score": 25
   },
   "alternates": [
     {
-      "pmid": "43000126",
-      "title": "Association of Matcha Tea with Cognitive Function: A Systematic Review and Meta-Analysis.",
-      "authors": "Huang MH, Fan HY, Jen PL",
-      "journal": "J Epidemiol",
-      "pubdate": "2026 Nov 7",
+      "pmid": "43001542",
+      "title": "The pen-and-paper tube figures mental rotation task for patients with trauma-related disorders: a randomized controlled trial.",
+      "authors": "Matura JM, Thiel JP, Krug RH",
+      "journal": "Eur J Psychotraumatol",
+      "pubdate": "2026 Dec",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43000126/",
-      "score": 19
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43001542/",
+      "score": 17
     },
     {
-      "pmid": "42999833",
-      "title": "Oocyte Maturation and Fertilization-Related Outcomes Following a Pro-Fertility Diet Combined with Omega-3 Supplementation in Women Undergoing Assisted Reproductive Technology: A Secondary Analysis of a Randomized Controlled Trial.",
-      "authors": "Ghadimi-Yari M, Ghasemi-Tehrani H, Feizi A",
-      "journal": "Int J Womens Health",
-      "pubdate": "2026",
+      "pmid": "43002737",
+      "title": "Methods and Effectiveness of Auditory-Cognitive Training for Older Adults: Scoping Review and Meta-Analysis.",
+      "authors": "Li M, Ma C, Dawes P",
+      "journal": "JMIR Rehabil Assist Technol",
+      "pubdate": "2026 Nov 9",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42999833/",
-      "score": 17
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43002737/",
+      "score": 15
     },
     {
       "pmid": "42999722",
@@ -42,14 +42,14 @@
       "score": 11
     },
     {
-      "pmid": "42998303",
-      "title": "Wearable Technologies to Improve Physical Activity, Sedentary Breaks, Training, Sleep, and Safety: The ECSS-Wearable Technologies Special Interest Group Calls for Interdisciplinary Collaboration.",
-      "authors": "Düking P, Giurgiu M, Halson S",
-      "journal": "Eur J Sport Sci",
-      "pubdate": "2026 Dec",
+      "pmid": "43001147",
+      "title": "Steroid-Related Neuropsychiatric Symptoms (SRNS) in Children with Acute Lymphoblastic Leukemia (ALL): A Systematic Review of Clinical Features, Risk Factors, and Management.",
+      "authors": "Falana K, Ludwinek K, Siwko M",
+      "journal": "Cancer Manag Res",
+      "pubdate": "2026",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42998303/",
-      "score": 7
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43001147/",
+      "score": 11
     }
   ]
 }
