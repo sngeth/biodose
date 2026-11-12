@@ -1,55 +1,55 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "article": {
-    "pmid": "43002170",
-    "title": "Effects of Transcranial Direct Current Stimulation on Core Symptoms and Sleep Disturbances in Children With Autism Spectrum Disorder: A Meta-Analysis of Randomized Controlled Trials.",
-    "authors": "Wang M, Yang M",
-    "journal": "Brain Behav",
-    "pubdate": "2026 Nov",
-    "abstract": "This meta-analysis was designed to determine whether transcranial direct current stimulation (tDCS) confers measurable benefits for selected behavioral features of autism spectrum disorder (ASD) and for sleep problems in pediatric ASD populations.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43002170/",
-    "score": 25
+    "pmid": "43013342",
+    "title": "Digital Health Interventions for Pregnancy- and Childbirth-Related Posttraumatic Stress Disorder Symptoms in Postpartum Women: Systematic Review and Meta-Analysis.",
+    "authors": "Huang Z, Xiao Z, Liao X",
+    "journal": "J Med Internet Res",
+    "pubdate": "2026 Nov 11",
+    "abstract": "Pregnancy- or childbirth-related traumatic experiences may lead to posttraumatic stress disorder (PTSD) symptoms during the postpartum period, adversely affecting women and their families. Digital health interventions may improve access to psychological support; however, evidence of their effectiveness for pregnancy- and childbirth-related posttraumatic stress disorder (PCR-PTSD) symptoms remains limited and has not been systematically synthesized.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43013342/",
+    "score": 21
   },
   "alternates": [
     {
-      "pmid": "43001542",
-      "title": "The pen-and-paper tube figures mental rotation task for patients with trauma-related disorders: a randomized controlled trial.",
-      "authors": "Matura JM, Thiel JP, Krug RH",
-      "journal": "Eur J Psychotraumatol",
-      "pubdate": "2026 Dec",
+      "pmid": "43013333",
+      "title": "Impact of a Personalized Preventive Strategy on Oral Microbial Homeostasis During Fixed Orthodontic Treatment (PREPERMIO): Protocol for a Randomized Controlled Trial.",
+      "authors": "Dubois M, Ortis M, Tonoyan L",
+      "journal": "JMIR Res Protoc",
+      "pubdate": "2026 Nov 11",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43001542/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43013333/",
       "score": 17
     },
     {
-      "pmid": "43002737",
-      "title": "Methods and Effectiveness of Auditory-Cognitive Training for Older Adults: Scoping Review and Meta-Analysis.",
-      "authors": "Li M, Ma C, Dawes P",
-      "journal": "JMIR Rehabil Assist Technol",
-      "pubdate": "2026 Nov 9",
+      "pmid": "43015130",
+      "title": "Effect of Inspiratory Muscle Training on Blood Pressure and Heart Rate in Normotensive Adults: A Systematic Review.",
+      "authors": "Barbosa RM, Santos ACND, Sacramento MSD",
+      "journal": "J Clin Hypertens (Greenwich)",
+      "pubdate": "2026 Nov",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43002737/",
-      "score": 15
-    },
-    {
-      "pmid": "42999722",
-      "title": "Management of meniscal pathology at the time of anterior cruciate ligament reconstruction in performance athletes: a systematic review.",
-      "authors": "Few WE, Mullen M, Wilder JH",
-      "journal": "Ann Jt",
-      "pubdate": "2026",
-      "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42999722/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43015130/",
       "score": 11
     },
     {
-      "pmid": "43001147",
-      "title": "Steroid-Related Neuropsychiatric Symptoms (SRNS) in Children with Acute Lymphoblastic Leukemia (ALL): A Systematic Review of Clinical Features, Risk Factors, and Management.",
-      "authors": "Falana K, Ludwinek K, Siwko M",
-      "journal": "Cancer Manag Res",
-      "pubdate": "2026",
+      "pmid": "43012563",
+      "title": "Combat Diver Training Shifts Autonomic Balance and Increases Vigor Without Cardiac Remodeling.",
+      "authors": "Asal S, Kılıç Ş, Aslan Y",
+      "journal": "Turk Kardiyol Dern Ars",
+      "pubdate": "2026 Nov 11",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43001147/",
-      "score": 11
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43012563/",
+      "score": 7
+    },
+    {
+      "pmid": "43013390",
+      "title": "Metabolic reprogramming by caloric restriction enhances acute phase virological control and reduces chronic inflammation during SIV infection.",
+      "authors": "Suresh Babu N, Perdios C, Hallmets M",
+      "journal": "Cell Rep",
+      "pubdate": "2026 Nov 10",
+      "abstract": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43013390/",
+      "score": 7
     }
   ]
 }
