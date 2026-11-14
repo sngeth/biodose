@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-14",
+  "article": {
+    "pmid": "43017984",
+    "title": "Spin and reporting quality in systematic reviews of nonrandomized studies in restorative dentistry: a meta-research study.",
+    "authors": "Galdino-Santos L, Elagami RA, Sensever FA",
+    "journal": "Braz Oral Res",
+    "pubdate": "2026",
+    "abstract": "To investigate the prevalence and types of spin, assess reporting quality and risk of bias, and identify factors associated with spin in systematic reviews with meta-analyses of nonrandomized studies in restorative dentistry. Five databases were searched through October 2025. Eligible systematic reviews compared at least two restorative materials or interventions for permanent teeth and reported restoration longevity, survival, or success/failure. Spin was assessed in abstracts and main texts using the classification by Yavchitz et al. Reporting quality and risk of bias were evaluated using AMSTAR 2 and ROBIS. Associations with spin were explored using Poisson and ordinal logistic regression. Twenty-six systematic reviews were included. Spin was identified in 92.3% of abstracts and 96.15% of main texts. In abstracts, the most frequent strategies were failure to declare conflicts of interest (34.61%) and failure to consider differences in study designs (34.61%). In the main text, common strategies included inadequate consideration of reporting bias (80.76%), insufficient consideration of risk of bias of primary studies (34.61%), and conclusions claiming equivalence despite nonsignificant results with wide confidence intervals (26.31%). Most reviews were rated as critically low quality by AMSTAR 2 (73.08%), and 38.46% had high risk of bias by ROBIS. Exceeding the abstract word limit (prevalence ratio [PR = 1.69; 95%CI: 1.19-2.42), failure to report funding sources (PR = 2.10; 95%CI: 1.22-3.59), and absence of a structured abstract (PR = 1.56; 95%CI: 1.18-2.07) were associated with spin. Spin is prevalent in systematic reviews of nonrandomized studies in restorative dentistry and is associated with inadequate reporting practices.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43017984/",
+    "score": 13
+  },
+  "alternates": [
+    {
+      "pmid": "43016714",
+      "title": "Effectiveness of an Extension for Community Health Outcomes case-based virtual community of practice model on patient outcomes for the management of long COVID and other fatiguing illnesses: a randomized control trial.",
+      "authors": "Sharp SP, Zhang TM, Taren D",
+      "journal": "Front Health Serv",
+      "pubdate": "2026",
+      "abstract": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43016714/",
+      "score": 9
+    },
+    {
+      "pmid": "43019179",
+      "title": "Diurnal variation of islet autoantibody titers in established type 1 diabetes suggests restricted-time sampling improves aab measurement and detection.",
+      "authors": "Beam CA, DiMeglio LA, Speake C",
+      "journal": "Sci Rep",
+      "pubdate": "2026",
+      "abstract": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43019179/",
+      "score": 7
+    },
+    {
+      "pmid": "43019250",
+      "title": "Web-Based Isha Kriya Meditation and Breathwork in Long COVID: Mixed Methods Randomized Controlled Pilot Study.",
+      "authors": "Rayapuraju A, Mohamed E, Reed PU",
+      "journal": "J Med Internet Res",
+      "pubdate": "2026 Nov 12",
+      "abstract": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43019250/",
+      "score": 7
+    },
+    {
+      "pmid": "43019373",
+      "title": "The effects of dual task training to improve self-efficacy, functional performance, and quality of life in individuals with Parkinson's disease: A study protocol.",
+      "authors": "Reyes-Ponce A, Cruickshank T, Mira A",
+      "journal": "PLoS One",
+      "pubdate": "2026",
+      "abstract": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43019373/",
+      "score": 7
+    }
+  ]
+}
