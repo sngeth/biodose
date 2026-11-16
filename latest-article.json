@@ -1,55 +1,55 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "article": {
-    "pmid": "43031295",
-    "title": "Global Prevalence of Clinically Significant Insomnia Among Cancer Patients: A Systematic Review and Meta-Analysis.",
-    "authors": "Du T, Luo L, Gao L",
-    "journal": "Brain Behav",
-    "pubdate": "2026 Nov",
-    "abstract": "Clinically significant insomnia is associated with multiple adverse health outcomes in cancer patients. This study aimed to examine the global prevalence of clinically significant insomnia among cancer patients and to determine the moderators of the prevalence estimate.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43031295/",
-    "score": 19
+    "pmid": "43030212",
+    "title": "Anthocyanin-Rich Aronia melanocarpa Supplementation Modulates Intestinal Barrier Biomarkers and Stress-Axis Response in a Randomized Controlled Trial.",
+    "authors": "Dziewiecka H, Ostapiuk-Karolczuk J, Kasperska A",
+    "journal": "Nutrients",
+    "pubdate": "2026 Oct 29",
+    "abstract": "Anthocyanin-rich berries may modulate intestinal barrier-related processes and physiological stress responses, but evidence from human studies remains limited.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43030212/",
+    "score": 17
   },
   "alternates": [
     {
-      "pmid": "43031310",
-      "title": "Early Fibrinogen-to-Albumin Ratio and Poor Functional Outcome After Acute Ischemic Stroke: A Systematic Review and Meta-Analysis.",
-      "authors": "Yang Q, Li W, Deng Y",
-      "journal": "Brain Behav",
-      "pubdate": "2026 Nov",
+      "pmid": "43028213",
+      "title": "High-Fat Diet Provokes Aberrant Erythropoiesis in IRP1-Deleted Mice, Leading to Paradoxical Improvement of Glucose Tolerance.",
+      "authors": "You M, Chung S",
+      "journal": "Int J Mol Sci",
+      "pubdate": "2026 Nov 6",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43031310/",
-      "score": 19
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43028213/",
+      "score": 7
     },
     {
-      "pmid": "43026698",
-      "title": "Nurse-Led Stepped Care to Reduce Fear of Falling After Hip Fracture Surgery in Older Adults: A Non-Randomized Controlled Trial Protocol.",
-      "authors": "Lv S, Wang L, Wang L",
-      "journal": "Nurs Open",
-      "pubdate": "2026 Nov",
+      "pmid": "43030321",
+      "title": "Feasibility of Implementing a Dietary Intervention in Older Adults with Mild Depressive Symptoms and Low Activity: Lessons Learned.",
+      "authors": "Millar CL, Dufour AB, Wolfe A",
+      "journal": "Nutrients",
+      "pubdate": "2026 Nov 7",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43026698/",
-      "score": 17
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43030321/",
+      "score": 7
     },
     {
-      "pmid": "43017984",
-      "title": "Spin and reporting quality in systematic reviews of nonrandomized studies in restorative dentistry: a meta-research study.",
-      "authors": "Galdino-Santos L, Elagami RA, Sensever FA",
-      "journal": "Braz Oral Res",
+      "pmid": "43032735",
+      "title": "Artificial Intelligence in Preventive Cardiology: Risk Prediction, Exposomics, and Personalized Interventions.",
+      "authors": "Magnino C, Coker M, Avenatti E",
+      "journal": "Methodist Debakey Cardiovasc J",
       "pubdate": "2026",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43017984/",
-      "score": 13
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43032735/",
+      "score": 7
     },
     {
-      "pmid": "43016714",
-      "title": "Effectiveness of an Extension for Community Health Outcomes case-based virtual community of practice model on patient outcomes for the management of long COVID and other fatiguing illnesses: a randomized control trial.",
-      "authors": "Sharp SP, Zhang TM, Taren D",
-      "journal": "Front Health Serv",
-      "pubdate": "2026",
+      "pmid": "43032907",
+      "title": "Efficacy and safety of teneligliptin as add-on therapy in patients with type 2 diabetes treated with empagliflozin and metformin: A 24-week, randomized, double-blind, placebo-controlled phase 3 trial.",
+      "authors": "Kwak SH, Min K, Ku BJ",
+      "journal": "J Diabetes Investig",
+      "pubdate": "2026 Nov 14",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43016714/",
-      "score": 9
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43032907/",
+      "score": 7
     }
   ]
 }
