@@ -1,14 +1,14 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "article": {
-    "pmid": "43030212",
-    "title": "Anthocyanin-Rich Aronia melanocarpa Supplementation Modulates Intestinal Barrier Biomarkers and Stress-Axis Response in a Randomized Controlled Trial.",
-    "authors": "Dziewiecka H, Ostapiuk-Karolczuk J, Kasperska A",
-    "journal": "Nutrients",
-    "pubdate": "2026 Oct 29",
-    "abstract": "Anthocyanin-rich berries may modulate intestinal barrier-related processes and physiological stress responses, but evidence from human studies remains limited.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43030212/",
-    "score": 17
+    "pmid": "43034331",
+    "title": "Online Gambling Detection Systems: A Systematic Review.",
+    "authors": "Ajhari AA, Aji RF, Mantau AJ",
+    "journal": "F1000Res",
+    "pubdate": "2026",
+    "abstract": "Illegal online gambling increasingly exploits websites, mobile applications, social media, messaging services, and decentralized financial infrastructure, and operators actively evade automated filtering. This review synthesizes how online gambling detection systems (OGDS) are applied, integrated, and evaluated, and which limitations constrain their deployment.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034331/",
+    "score": 11
   },
   "alternates": [
     {
@@ -32,24 +32,24 @@
       "score": 7
     },
     {
-      "pmid": "43032735",
-      "title": "Artificial Intelligence in Preventive Cardiology: Risk Prediction, Exposomics, and Personalized Interventions.",
-      "authors": "Magnino C, Coker M, Avenatti E",
-      "journal": "Methodist Debakey Cardiovasc J",
-      "pubdate": "2026",
+      "pmid": "43030303",
+      "title": "Inflammatory, Insulinemic, and Plant-Based Dietary Patterns and Diabetes Among Patients with Acute Pancreatitis: A Cross-Sectional Analysis of the DREAM Study.",
+      "authors": "Ba DM, Qiu T, Shi N",
+      "journal": "Nutrients",
+      "pubdate": "2026 Nov 6",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43032735/",
-      "score": 7
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43030303/",
+      "score": 5
     },
     {
-      "pmid": "43032907",
-      "title": "Efficacy and safety of teneligliptin as add-on therapy in patients with type 2 diabetes treated with empagliflozin and metformin: A 24-week, randomized, double-blind, placebo-controlled phase 3 trial.",
-      "authors": "Kwak SH, Min K, Ku BJ",
-      "journal": "J Diabetes Investig",
-      "pubdate": "2026 Nov 14",
+      "pmid": "43030310",
+      "title": "Beyond Weight Loss: A Body Composition-Guided Nutrition Framework for Functional Recovery in Heart Failure with Obesity.",
+      "authors": "Angosta AD, Meraz R, Raymond S",
+      "journal": "Nutrients",
+      "pubdate": "2026 Nov 6",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43032907/",
-      "score": 7
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43030310/",
+      "score": 5
     }
   ]
 }
