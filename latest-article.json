@@ -1,14 +1,14 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "article": {
-    "pmid": "43038214",
-    "title": "Innovative mHealth intervention providing sustained anticipatory guidance (zero cavity): Design, validation, user perception and effectiveness - A randomized controlled trial protocol.",
-    "authors": "Murugan SM, Dhar V, Saikia A",
-    "journal": "PLoS One",
-    "pubdate": "2026",
-    "abstract": "Early Childhood Caries (ECC) remains one of the most common chronic conditions in childhood, affecting over 600 million children globally. When untreated, it can lead to severe pain, abscesses, difficulty in chewing that contributes to malnutrition, impaired speech, disrupted sleep, low self-esteem, social withdrawal, and poor academic performance, all of which diminish a child's overall quality of life. Although largely preventable, ECC remains highly prevalent because of delayed preventive care and low parental awareness. Effective health education needs to be consistent, accessible, and available whenever parents need it. Although current evidence indicates that anticipatory guidance is a proven approach, its long-term reinforcement through a mobile app has not yet been tested. This study aims to develop and evaluate the effectiveness of a mobile health (mHealth) application delivering Sustained Anticipatory Guidance (SAG) for the prevention of ECC.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43038214/",
-    "score": 21
+    "pmid": "43044657",
+    "title": "Risk factor for developing iliopsoas tendinopathy after total hip arthroplasty : a systematic review and meta-analysis.",
+    "authors": "Romero Padron MA, Darling AJ, Rodriguez AR",
+    "journal": "Bone Jt Open",
+    "pubdate": "2026 Nov 18",
+    "abstract": "Iliopsoas tendinopathy (IPT) is an under-recognized cause of persistent groin pain following total hip arthroplasty (THA), yet reported risk factors remain incompletely synthesized. The purpose of this study was to systematically identify and synthesize risk factors associated with the development of IPT after THA.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43044657/",
+    "score": 19
   },
   "alternates": [
     {
@@ -20,6 +20,16 @@
       "abstract": "",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43040607/",
       "score": 11
+    },
+    {
+      "pmid": "43041220",
+      "title": "Resistance training enhances the post-exercise fat oxidation of Tabata-style exercise more than moderate-intensity continuous training in young males with obesity: an acute randomized crossover study.",
+      "authors": "Cheng Z, Xiang Z, Han Y",
+      "journal": "Front Endocrinol (Lausanne)",
+      "pubdate": "2026",
+      "abstract": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43041220/",
+      "score": 9
     },
     {
       "pmid": "43040448",
@@ -39,16 +49,6 @@
       "pubdate": "2026 Nov",
       "abstract": "",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43040854/",
-      "score": 7
-    },
-    {
-      "pmid": "43041106",
-      "title": "Exploratory Pilot Randomized Crossover Study of Transcutaneous Vagus Nerve Stimulation on Sleep Quality and Mood in Healthy Adults.",
-      "authors": "Hong SW, Im J, Koh CS",
-      "journal": "J Korean Med Sci",
-      "pubdate": "2026 Nov 16",
-      "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43041106/",
       "score": 7
     }
   ]
