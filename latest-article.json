@@ -1,34 +1,34 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "article": {
-    "pmid": "43051663",
-    "title": "Which elements of pulmonary rehabilitation improve physical activity and sleep in COPD? A systematic review and component network meta-analysis.",
-    "authors": "Orme MW, Manifield J, Latimer L",
-    "journal": "Eur Respir Rev",
-    "pubdate": "2026 Oct",
-    "abstract": "Physical activity (PA) predicts both mortality and morbidity. Pulmonary rehabilitation (PR) is known to improve exercise capacity and quality of life, but it's impact on PA remains unclear. Likewise, it is uncertain which components of PR elicit the greatest response.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43051663/",
-    "score": 21
+    "pmid": "43054055",
+    "title": "Effects of cognitive behavioral therapy on psychological and physical outcomes in adults with rheumatoid arthritis: a systematic review and meta-analysis of randomized controlled trials.",
+    "authors": "Zhang Y, Wu F, Huang L",
+    "journal": "Front Public Health",
+    "pubdate": "2026",
+    "abstract": "Pain and functional limitations associated with rheumatoid arthritis (RA) can substantially impair patients' psychological and physical well-being. Cognitive behavioral therapy (CBT) may alleviate psychological and physical symptoms in patients with RA by modifying maladaptive cognitions and behaviors and promoting adaptive coping with the disease. However, the effect of CBT in RA patients has not been systematically established.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43054055/",
+    "score": 31
   },
   "alternates": [
     {
-      "pmid": "43047656",
-      "title": "Vagus nerve stimulation in obesity: a systematic review and meta-analysis.",
-      "authors": "Bradfield CI, Barroso B, Cabrera Gonzalez MD",
-      "journal": "Front Neurosci",
-      "pubdate": "2026",
+      "pmid": "43051663",
+      "title": "Which elements of pulmonary rehabilitation improve physical activity and sleep in COPD? A systematic review and component network meta-analysis.",
+      "authors": "Orme MW, Manifield J, Latimer L",
+      "journal": "Eur Respir Rev",
+      "pubdate": "2026 Oct",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43047656/",
-      "score": 19
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43051663/",
+      "score": 21
     },
     {
-      "pmid": "43051972",
-      "title": "A Systematic Review and Meta-Analysis of FeNO and Alpine Altitude Climate Treatment in Asthma: An EAACI Task Force Report.",
-      "authors": "Vinnikov D, Murgia N, Cogo A",
-      "journal": "Clin Transl Allergy",
-      "pubdate": "2026 Nov",
+      "pmid": "43055249",
+      "title": "Effects of caffeine ingestion on endurance performance in acute hypoxic conditions: a systematic review and meta-analysis.",
+      "authors": "Peng Y, Ding L, Chen B",
+      "journal": "J Int Soc Sports Nutr",
+      "pubdate": "2026 Dec 30",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43051972/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43055249/",
       "score": 19
     },
     {
@@ -42,14 +42,14 @@
       "score": 11
     },
     {
-      "pmid": "43051999",
-      "title": "Time-Efficient Reactive Agility Training Improves Motor and Cognitive Components of Reactive Agility in Open- and Closed-Skill Athletes: A 6-Week Intervention Study.",
-      "authors": "Laukhardt F, Engeroff T, Banzer W",
-      "journal": "Eur J Sport Sci",
-      "pubdate": "2026 Dec",
+      "pmid": "43040448",
+      "title": "FOXM1 Expression Enhances DNA Repair in Aged Cells to Maintain the Peripheral Heterochromatin Barrier Against Senescence Enhancers.",
+      "authors": "Sousa-Soares C, da Silva MM, Castro JP",
+      "journal": "Aging Cell",
+      "pubdate": "2026 Nov",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43051999/",
-      "score": 9
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43040448/",
+      "score": 7
     }
   ]
 }
