@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-23",
+  "article": {
+    "pmid": "43068163",
+    "title": "Efficacy and Safety of Multicomponent Non-Pharmacological Interventions for Fibromyalgia: A Systematic Review and Meta-Analysis.",
+    "authors": "Del Pino-Sedeño T, Abrante-Luis A, González de León B",
+    "journal": "J Pain Res",
+    "pubdate": "2026",
+    "abstract": "Fibromyalgia is a chronic disorder characterized by widespread musculoskeletal pain, fatigue, sleep disturbances, and functional and quality-of-life impairment. Its management is complex, and clinical guidelines recommend prioritizing multicomponent non-pharmacological interventions. This systematic review with meta-analysis aimed to evaluate the efficacy and safety of multicomponent non-pharmacological interventions for fibromyalgia. A literature search of randomized clinical trials (RCTs) published up to August 2026 was conducted in MEDLINE, Embase, PsycINFO, and CENTRAL. Outcomes assessed included pain, functional capacity, health-related quality of life (HRQoL), and adverse events. Certainty of the evidence (CoE) was assessed using GRADE, and risk of bias using the RoB 2.0 tool. Results were synthesized using meta-analysis or narrative synthesis when heterogeneity required it. Sixty-two RCTs (6983 patients) were included. Compared with control groups (usual care/waiting-list), multicomponent interventions probably produce a small reduction in pain (SMD = -0.25; 95% CI: -0.46 to -0.03; N = 2943) and a moderate improvement in functional capacity (SMD = -0.52; 95% CI: -0.72 to -0.32; N = 2729; CoE: moderate). They may produce a small improvement in HRQoL (physical component: SMD = 0.26; 95% CI: 0.09 to 0.43; N = 543; CoE: high; mental component: SMD = 0.24; 95% CI: 0.05 to 0.43; N = 437; CoE: moderate), and a possible increase in adverse events was observed (RR = 1.95; 95% CI: 1.10 to 3.46; N = 620; CoE: low). When compared with active interventions, multicomponent approaches generally showed little or no effect. Overall, multicomponent non-pharmacological interventions represent a useful therapeutic option for fibromyalgia, especially compared with usual care; however, the CoE is variable, evidence regarding safety remains limited, and higher-quality studies are needed.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43068163/",
+    "score": 21
+  },
+  "alternates": [
+    {
+      "pmid": "43065638",
+      "title": "Life aspirations, risk-benefit perceptions, and public acceptance of candidate gerotherapeutic medications: a preregistered national survey in Singapore.",
+      "authors": "Rosenthal S, Wang B, Szücs A",
+      "journal": "Front Aging",
+      "pubdate": "2026",
+      "abstract": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43065638/",
+      "score": 7
+    },
+    {
+      "pmid": "43065872",
+      "title": "Multi-tissue metabolomic signatures of five longevity interventions converge on ergothioneine and lipid remodeling in male UM-HET3 mice.",
+      "authors": "Badenoch B, Fiehn O, Rappaport N",
+      "journal": "Front Aging",
+      "pubdate": "2026",
+      "abstract": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43065872/",
+      "score": 7
+    },
+    {
+      "pmid": "43068284",
+      "title": "Effects of Indoor Biophilic Environmental Configurations on Cognitive Performance in Older Adults with Diabetes: A Randomized Virtual Reality Trial.",
+      "authors": "Dai J, Qiao B, Sun Y",
+      "journal": "Clin Interv Aging",
+      "pubdate": "2026",
+      "abstract": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43068284/",
+      "score": 7
+    },
+    {
+      "pmid": "43055118",
+      "title": "Prestroke and Poststroke Physical Activity and Depression, Anxiety, and Fatigue After Ischemic Stroke: A Cohort Study.",
+      "authors": "Karisik A, Moelgg K, Buergi L",
+      "journal": "Stroke",
+      "pubdate": "2026 Nov 19",
+      "abstract": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43055118/",
+      "score": 5
+    }
+  ]
+}
