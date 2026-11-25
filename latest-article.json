@@ -1,55 +1,55 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "article": {
-    "pmid": "43071678",
-    "title": "Effects of virtual reality-based rehabilitation on upper-limb motor function and functional independence after subacute stroke: A systematic review and multilevel meta-analysis of randomized controlled trials.",
-    "authors": "Pérez-Cárcamo J, Vásquez-Carrasco E, Valdés-Badilla P",
-    "journal": "PLoS One",
+    "pmid": "43075603",
+    "title": "Hepatitis C virus infection and cognitive outcomes in adults: a systematic review and meta-analysis.",
+    "authors": "Guevara-Tirado A, Barra GG, Tineo JCB",
+    "journal": "Dement Neuropsychol",
     "pubdate": "2026",
-    "abstract": "Virtual reality (VR)-based rehabilitation has emerged as a promising approach to enhance recovery after stroke; however, its effectiveness during the subacute phase remains unclear. This systematic review and multilevel meta-analysis evaluated the effects of VR-based rehabilitation on upper-limb motor function, manual dexterity, and functional independence in individuals with subacute stroke.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43071678/",
-    "score": 31
+    "abstract": "Hepatitis C virus (HCV) infection has been linked to cognitive outcomes, but evidence remains heterogeneous and may be influenced by liver disease severity.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43075603/",
+    "score": 19
   },
   "alternates": [
     {
-      "pmid": "43071903",
-      "title": "The Effect of Hongquan Training on Physical Fitness and Executive Function in University Students: A Randomized Controlled Trial.",
-      "authors": "Chen P, Cheng X, Yang L",
-      "journal": "Am J Mens Health",
-      "pubdate": "2026 Nov-Dec",
+      "pmid": "43077245",
+      "title": "Effects of BlazePod Visual Stimulus Training on Reaction Time, Agility, and Shooting in Youth Basketball Players: Randomized Controlled Trial.",
+      "authors": "K Hassan A, Arab MK, Alibrahim MS",
+      "journal": "JMIR Serious Games",
+      "pubdate": "2026 Nov 24",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43071903/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43077245/",
       "score": 17
     },
     {
-      "pmid": "43069517",
-      "title": "Laxative treatment perturbs gut microbiome composition and metabolism in humans independent of short-term fiber consumption: a randomized controlled crossover intervention study.",
-      "authors": "Jørgensen MS, Li Q, La Barbera G",
-      "journal": "Gut Microbes",
-      "pubdate": "2026 Dec 31",
-      "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43069517/",
-      "score": 9
-    },
-    {
-      "pmid": "43071683",
-      "title": "Environmental enrichment enhances hepatic oxidative stress and antioxidant defenses without modulating immunometabolic gene expression in adult male mice.",
-      "authors": "Santos de Sousa Fernandes M, Lacerda Ramos T, Eduarda da Silva Fidélis D",
-      "journal": "PLoS One",
+      "pmid": "43075075",
+      "title": "Cold atmospheric plasma and plasma-antibiotic combinations against ESKAPE pathogens: a systematic review of preclinical evidence.",
+      "authors": "Vinitha G, Manickam K, Dasgupta D",
+      "journal": "Front Microbiol",
       "pubdate": "2026",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43071683/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43075075/",
+      "score": 11
+    },
+    {
+      "pmid": "43078774",
+      "title": "Lactobacillus Fermentation-Derived γ-Aminobutyric Acid Improves Sleep Parameters in Invertebrate and Vertebrate Models.",
+      "authors": "Ha YJ, Kim MJ, Kim H",
+      "journal": "J Microbiol Biotechnol",
+      "pubdate": "2026 Nov 24",
+      "abstract": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43078774/",
       "score": 7
     },
     {
-      "pmid": "43071954",
-      "title": "Interventions to Support Healthy Movement Behaviors Among Preschool Children in Early Childhood Education and Care Settings: Protocol for a Realist Synthesis.",
-      "authors": "Miller H, John J, Pesce C",
-      "journal": "JMIR Res Protoc",
-      "pubdate": "2026 Nov 23",
+      "pmid": "43074929",
+      "title": "Intraoperative rescue left stellate ganglion block for refractory ventricular arrhythmias following resuscitation from torsades de pointes: a case report.",
+      "authors": "Cui JJ, Li XR, Zhang CD",
+      "journal": "Front Med (Lausanne)",
+      "pubdate": "2026",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43071954/",
-      "score": 7
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43074929/",
+      "score": 5
     }
   ]
 }
