@@ -1,54 +1,54 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "article": {
-    "pmid": "43082403",
-    "title": "Craniofacial Skeletal and Dentoalveolar Morphology in Bruxism: A Systematic Review of Imaging-Based and Morphometric Observational Studies.",
-    "authors": "Buzatu R, Bumbu BA, Buzatu BLR",
-    "journal": "Dent J (Basel)",
-    "pubdate": "2026 Nov 20",
-    "abstract": "Background/Objectives: This systematic review evaluated whether craniofacial skeletal, mandibular and dentoalveolar morphology differs between individuals with and without bruxism. Methods: The protocol was prospectively registered (Open Science Framework) and the review follows PRISMA 2020. MEDLINE (PubMed) was searched from inception to 1 September 2026, supplemented by web, directory, reference-list and forward-citation searches; no other bibliographic database was searched. Two reviewers independently screened records and appraised quality with the JBI checklist. Because heterogeneity precluded meta-analysis, findings were synthesised narratively, with an exploratory effect-direction synthesis for the gonial angle stratified by diagnostic grade, age, temporomandibular disorder status and confounder control. Results: Sixteen studies (1387 participants, ten countries) were included; two used instrumental (definite) bruxism assessment. No consistent association was found with sagittal or vertical skeletal pattern, facial type or headform. Three adult imaging studies with non-instrumental diagnosis reported smaller gonial angles in bruxers (approximately 4&#xb0; in two), and a fourth reported a reduction confined to women; no reduction was observed in either instrumental study or in any study with age-comparable groups not selected for temporomandibular disorder. Dentoalveolar findings were isolated and inconsistent. Conclusions: The evidence is insufficient to establish a characteristic craniofacial pattern or a reproducible gonial-angle association in bruxism; the reported differences are vulnerable to diagnostic misclassification and confounding. Craniofacial morphology alone should not be used to diagnose bruxism or to guide treatment decisions.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43082403/",
-    "score": 11
+    "pmid": "43096777",
+    "title": "Effects of Milk or Yogurt Supplementation on Bone Health, Body Composition, and Gut Microbiota in Canadian Young Adults: Protocol for a Three-Arm Parallel-Group Randomized Controlled Trial.",
+    "authors": "Uzair SA, Monroy-Valle M, Shafiee M",
+    "journal": "JMIR Res Protoc",
+    "pubdate": "2026 Nov 25",
+    "abstract": "Osteoporosis is a major global public health concern. Optimizing peak bone mass during young adulthood is the main preventive strategy for reducing fracture risk later in life. Dairy foods, such as milk, provide nutrients, including calcium and protein, that support bone health, while fermented dairy foods, including yogurt, may confer additional benefits through potential modulation of the gut microbiome. However, the long-term comparative effects of milk and/or yogurt supplementation compared with no dairy supplementation on bone health, body composition, and the gut microbiome in Canadian young adults remain unknown.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43096777/",
+    "score": 17
   },
   "alternates": [
     {
-      "pmid": "43083721",
-      "title": "A Multi-Target Intervention Enhances Intestinal Integrity and Reduces Intestinal Stress in Weaned Piglets Fed Diets Naturally Contaminated with Mixtures of Fusarium Mycotoxins.",
-      "authors": "Nacer-Khodja E, Middelkoop A, Gallissot M",
-      "journal": "Toxins (Basel)",
-      "pubdate": "2026 Nov 1",
-      "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43083721/",
-      "score": 9
-    },
-    {
-      "pmid": "43084587",
-      "title": "Hybrid multimodal exercise training promotes enhanced recovery after surgery and improves musculoskeletal strength in patients with osteosarcopenic obesity: A clinical study protocol.",
-      "authors": "Miao C, Zou B, Chen K",
-      "journal": "PLoS One",
+      "pmid": "43094851",
+      "title": "Hyperbaric oxygen therapy and cardiorespiratory fitness: the strongest prognostic markers of health and ageing improve across more than 1,000 patients, consistent with controlled trials.",
+      "authors": "Yaakobi E, Bentzur K, Hadanny A",
+      "journal": "Front Aging",
       "pubdate": "2026",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43084587/",
-      "score": 9
-    },
-    {
-      "pmid": "43084498",
-      "title": "Nutrient combination enhances neural stem cells proliferation and neuronal differentiation.",
-      "authors": "Xu F, Jie Y, Ni Z",
-      "journal": "PLoS One",
-      "pubdate": "2026",
-      "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43084498/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43094851/",
       "score": 7
     },
     {
-      "pmid": "43084599",
-      "title": "Social predictability increases with age in dolphins: A marker of longevity?",
-      "authors": "Siracusa ER",
-      "journal": "PLoS Biol",
-      "pubdate": "2026 Nov",
+      "pmid": "43096111",
+      "title": "Violet Light-Induced Changes in Voice Vitality Indices and Their Associations With Sleep Improvement in Patients With Depression.",
+      "authors": "Noda Y, Nakamura M, Hayano M",
+      "journal": "J Integr Neurosci",
+      "pubdate": "2026 Nov 18",
       "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43084599/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43096111/",
+      "score": 7
+    },
+    {
+      "pmid": "43096121",
+      "title": "Nasal Respiratory Training Induces Neuromorphological Changes in Hippocampus and Default Mode Network Structures Accompanied by Reduced Physiological Stress Parameters - A Randomized MRI Trial.",
+      "authors": "Silenko A, Reckner T, Hübner R",
+      "journal": "J Integr Neurosci",
+      "pubdate": "2026 Nov 12",
+      "abstract": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43096121/",
+      "score": 7
+    },
+    {
+      "pmid": "43097248",
+      "title": "Mineralocorticoid-responsive polyuria and increased urinary sodium excretion associated with voriconazole: a case report.",
+      "authors": "Kanemura T, Kamohara H, Tsurukiri J",
+      "journal": "CEN Case Rep",
+      "pubdate": "2026 Nov 26",
+      "abstract": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43097248/",
       "score": 7
     }
   ]
