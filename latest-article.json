@@ -1,16 +1,26 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "article": {
-    "pmid": "43096777",
-    "title": "Effects of Milk or Yogurt Supplementation on Bone Health, Body Composition, and Gut Microbiota in Canadian Young Adults: Protocol for a Three-Arm Parallel-Group Randomized Controlled Trial.",
-    "authors": "Uzair SA, Monroy-Valle M, Shafiee M",
-    "journal": "JMIR Res Protoc",
-    "pubdate": "2026 Nov 25",
-    "abstract": "Osteoporosis is a major global public health concern. Optimizing peak bone mass during young adulthood is the main preventive strategy for reducing fracture risk later in life. Dairy foods, such as milk, provide nutrients, including calcium and protein, that support bone health, while fermented dairy foods, including yogurt, may confer additional benefits through potential modulation of the gut microbiome. However, the long-term comparative effects of milk and/or yogurt supplementation compared with no dairy supplementation on bone health, body composition, and the gut microbiome in Canadian young adults remain unknown.",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/43096777/",
-    "score": 17
+    "pmid": "43098573",
+    "title": "Effects of arts interventions and arts-based interventions on stress, cortisol levels and blood pressure among workers: a systematic review and meta-analysis.",
+    "authors": "Suon P, Kamarul Zaman M, Mohd Azahar N",
+    "journal": "BMJ Open",
+    "pubdate": "2026 Nov 26",
+    "abstract": "To evaluate the effects of arts interventions and arts-based interventions on perceived/occupational stress, trauma-related stress, cortisol levels and blood pressure among workers.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43098573/",
+    "score": 21
   },
   "alternates": [
+    {
+      "pmid": "43096777",
+      "title": "Effects of Milk or Yogurt Supplementation on Bone Health, Body Composition, and Gut Microbiota in Canadian Young Adults: Protocol for a Three-Arm Parallel-Group Randomized Controlled Trial.",
+      "authors": "Uzair SA, Monroy-Valle M, Shafiee M",
+      "journal": "JMIR Res Protoc",
+      "pubdate": "2026 Nov 25",
+      "abstract": "",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43096777/",
+      "score": 17
+    },
     {
       "pmid": "43094851",
       "title": "Hyperbaric oxygen therapy and cardiorespiratory fitness: the strongest prognostic markers of health and ageing improve across more than 1,000 patients, consistent with controlled trials.",
@@ -39,16 +49,6 @@
       "pubdate": "2026 Nov 12",
       "abstract": "",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43096121/",
-      "score": 7
-    },
-    {
-      "pmid": "43097248",
-      "title": "Mineralocorticoid-responsive polyuria and increased urinary sodium excretion associated with voriconazole: a case report.",
-      "authors": "Kanemura T, Kamohara H, Tsurukiri J",
-      "journal": "CEN Case Rep",
-      "pubdate": "2026 Nov 26",
-      "abstract": "",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43097248/",
       "score": 7
     }
   ]
